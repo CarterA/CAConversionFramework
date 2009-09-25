@@ -1,0 +1,476 @@
+TVidiot
+v7
+r0
+t275406712.006777
+cCheck dependencies
+cProcessInfoPlistFile /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Info.plist Vidiot-Info.plist
+cPBXCp build/Debug/Vidiot.app/Contents/Frameworks/CAConversionFramework.framework ../CAConversionFramework/build/Debug/CAConversionFramework.framework
+cCopyStringsFile /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-fqabpgcyjmgzxpcjpusplwxsnutb/Vidiot_Prefix.pch.gch Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/MacOS/Vidiot normal x86_64
+cTouch /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app
+
+N/CAConversionFramework.framework
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dlfcn.h
+c000000004A73D44F0000000000000B1C
+t1249104975
+s2844
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversion.h
+c000000004AB69FD30000000000000189
+t1253482451
+s393
+i<Cocoa/Cocoa.h>
+i"CAConversionInfo.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionCenter.h
+c000000004AB83B4300000000000002C3
+t1253587779
+s707
+i<Cocoa/Cocoa.h>
+i"CAConversion.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionInfo.h
+c000000004AB8D6A500000000000001E9
+t1253627557
+s489
+i<Cocoa/Cocoa.h>
+i"CAConversionSource.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionSource.h
+c000000004AB98C2400000000000003C5
+t1253674020
+s965
+i<Cocoa/Cocoa.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/Import.h
+c000000004AB85D8700000000000000E5
+t1253596551
+s229
+i<Cocoa/Cocoa.h>
+i"CAConversion.h"
+i"CAConversionCenter.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/MediaInfoDLL.h
+c000000004AB67B540000000000006405
+t1253473108
+s25605
+i<gmodule.h>
+i<windows.h>
+i<dlfcn.h>
+i<string>
+i<sstream>
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework
+c000000004AB9975800000000000000EE
+t1253676888
+s238
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework
+c000000004AB997580000000000636088
+t1253676888
+s6512776
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversion.h
+c000000004AB520890000000000000167
+t1253384329
+s359
+i<Cocoa/Cocoa.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversion.m
+c000000004AB520FA000000000000010D
+t1253384442
+s269
+i"CAConversion.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversionCenter.h
+c000000004AB50F270000000000000160
+t1253379879
+s352
+i<Cocoa/Cocoa.h>
+i"CAConversion.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversionCenter.m
+c000000004AB42EED0000000000000273
+t1253322477
+s627
+i"CAConversionCenter.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/InfoPlist.strings
+c000000004AB30C81000000000000002D
+t1253248129
+s45
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/MainMenu.xib
+c000000004AB30C81000000000002BB60
+t1253248129
+s179040
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.h
+c000000004AB527C80000000000000163
+t1253386184
+s355
+i<Cocoa/Cocoa.h>
+i<CAConversionFramework/Import.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m
+c000000004AB990A100000000000002CE
+t1253675169
+s718
+i"VidiotAppDelegate.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch
+c000000004AB30C81000000000000008F
+t1253248129
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app
+t1253713911
+s102
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Frameworks/CAConversionFramework.framework
+t1253713910
+s238
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Info.plist
+t1253472503
+s883
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/MacOS/Vidiot
+t1253713911
+s15032
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/PkgInfo
+t1253472503
+s8
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1253472504
+s92
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Resources/English.lproj/MainMenu.nib
+t1253472505
+s34367
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversion.o
+t1253384444
+s7396
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversionCenter.o
+t1253384443
+s9724
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/Vidiot.LinkFileList
+c000000004AB678F700000000000000F5
+t1253472503
+s245
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o
+t1253675295
+s23992
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o
+t1253642995
+s5016
+
+N/Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m
+c000000004AB30C8100000000000000FE
+t1253248129
+s254
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-beiixmiixotmbdbugtyqcufprjns/Vidiot_Prefix.pch.gch
+t1253384943
+s54212368
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-clayunjuqulqtyasoluuyjahmlmw/Vidiot_Prefix.pch.pth
+t1253481988
+s7469740
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-dgzjvgxnsqvujpfcxcbmfnboikwp/Vidiot_Prefix.pch.gch
+t1253322031
+s54212368
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-ejgmzbmghrqdfvalbqkqiqrdqtvp/Vidiot_Prefix.pch.pth
+t1253498976
+s7469740
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-enlmewmctmuxhrdoptdmjkhfcigk/Vidiot_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-eriqlbvhzmwlzghjoiipvvvnphqw/Vidiot_Prefix.pch.pth
+t1253472511
+s7463500
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-fqabpgcyjmgzxpcjpusplwxsnutb/Vidiot_Prefix.pch.gch
+t1253642995
+s54224656
+
+NVidiot-Info.plist
+c000000004AB30C8100000000000003EA
+t1253248129
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies275406710#275406710#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversion.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversion.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275077243.551256
+e275077244.049271
+r1
+xCompileC
+xbuild/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversion.o
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversion.m275077243#275077244#0(0"0(0#0#63"/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversion.m4300882208#1556"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-dgzjvgxnsqvujpfcxcbmfnboikwp/Vidiot_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversion.m -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversion.o0#
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversionCenter.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversionCenter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275077243.550467
+e275077243.935135
+r1
+xCompileC
+xbuild/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversionCenter.o
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversionCenter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversionCenter.m275077243#275077243#0(0"0(0#0#69"/Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversionCenter.m4300882208#1568"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-dgzjvgxnsqvujpfcxcbmfnboikwp/Vidiot_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/CAConversionCenter.m -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/CAConversionCenter.o0#
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275368095.584810
+e275368095.950016
+r1
+xCompileC
+xbuild/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m275368095#275368095#0(0"0(0#0#68"/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m4300882208#1669"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-fqabpgcyjmgzxpcjpusplwxsnutb/Vidiot_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o0#
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275335779.884080
+e275335779.905211
+r0
+xCompileC
+xbuild/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m:9:
+oIn file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.h:10:
+oIn file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/Import.h:10:
+oIn file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversion.h:10:
+oIn file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionInfo.h:10:
+o/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionSource.h:22:49: error: expected a type
+o - (void)populateConversionInfoForFormatContext:(AVFormatContext *)format;
+o                                                 ^
+o1 diagnostic generated.
+lSLF07#2@76"Compile /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m275335779#275335779#0(991"In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m:9:In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.h:10:In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/Import.h:10:In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversion.h:10:In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionInfo.h:10:/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionSource.h:22:49: error: expected a type - (void)populateConversionInfoForFormatContext:(AVFormatContext *)format;                                                 ^1(4@15"Expected a type275335779#688#177#6(7@170"In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionInfo.h:10:275335779#517#171#0(6@144"/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionInfo.h275320357#10#0#10#0#0"0(7@166"In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversion.h:10:275335779#350#167#0(6@140"/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversion.h275175251#10#0#10#0#0"0(7@160"In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/Import.h:10:275335779#189#161#0(6@134"/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/Import.h275289351#10#0#10#0#0"0(7@94"In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.h:10:275335779#94#95#0(6@68"/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.h275078984#10#0#10#0#0"0(7@93"In file included from /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m:9:275335779#0#94#0(6@68"/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m275320500#9#0#9#0#0"0(13@165"Expected a type in /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionSource.h275335779#18446744073709551615#0#0(6@146"/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionSource.h275335689#22#49#0#0#0"0(6@146"/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers/CAConversionSource.h275335689#22#49#0#0#15"expected a type0(0#0#68"/Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m4300882208#1705"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-clayunjuqulqtyasoluuyjahmlmw/Vidiot_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/VidiotAppDelegate.m -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/VidiotAppDelegate.o1#
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275335795.228382
+e275335795.541779
+r1
+xCompileC
+xbuild/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m275335795#275335795#0(0"0(0#0#55"/Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m4300882208#1643"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-fqabpgcyjmgzxpcjpusplwxsnutb/Vidiot_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275194372.138016
+e275194372.182777
+r1
+xCompileC
+xbuild/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@63"Compile /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m275194372#275194372#0(0"0(0#0#55"/Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m4300882208#1679"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-clayunjuqulqtyasoluuyjahmlmw/Vidiot_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/main.m -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/MainMenu.xib
+s275165303.639495
+e275165305.890986
+r1
+xCompileXIB
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib275165303#275165305#0(0"0(0#0#75"/Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/MainMenu.xib4300882208#356"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Resources/English.lproj/MainMenu.nib /Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s275165303.637769
+e275165304.590970
+r1
+xCopyStringsFile
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings275165303#275165304#0(0"0(0#0#80"/Users/carterallen/Development/Mac/Vidiot/Vidiot/English.lproj/InfoPlist.strings4300882208#384"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Resources/English.lproj0#
+
+CLd /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/MacOS/Vidiot normal x86_64
+s275406711.005146
+e275406711.970007
+r1
+xLd
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/MacOS/Vidiot
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/MacOS/Vidiot275406711#275406711#0(0"0(0#0#0"4300882208#708"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -filelist /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Objects-normal/x86_64/Vidiot.LinkFileList -mmacosx-version-min=10.6 -framework CAConversionFramework -framework Cocoa -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/MacOS/Vidiot0#
+
+CPBXCp /CAConversionFramework.framework ../CAConversionFramework/build/Debug/CAConversionFramework.framework
+r0
+
+CPBXCp build/Debug/Vidiot.app/Contents/Frameworks/CAConversionFramework.framework ../CAConversionFramework/build/Debug/CAConversionFramework.framework
+s275406710.325238
+e275406711.004730
+r1
+xPBXCp
+xbuild/Debug/Vidiot.app/Contents/Frameworks/CAConversionFramework.framework
+x../CAConversionFramework/build/Debug/CAConversionFramework.framework
+lSLF07#2@73"Copy ../CAConversionFramework/build/Debug/CAConversionFramework.framework275406710#275406711#0(0"0(0#0#117"/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework4300882208#414"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug/CAConversionFramework.framework /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Info.plist Vidiot-Info.plist
+s275165303.505300
+e275165303.530803
+r1
+xProcessInfoPlistFile
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Info.plist
+xVidiot-Info.plist
+lSLF07#2@25"Process Vidiot-Info.plist275165303#275165303#0(0"0(0#0#66"/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot-Info.plist4300882208#337"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    builtin-infoPlistUtility Vidiot-Info.plist -genpkginfo /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-beiixmiixotmbdbugtyqcufprjns/Vidiot_Prefix.pch.gch Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275077740.556803
+e275077743.585056
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-beiixmiixotmbdbugtyqcufprjns/Vidiot_Prefix.pch.gch
+xVidiot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Vidiot_Prefix.pch275077740#275077743#0(0"0(0#0#66"/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch7590306394866541568#1525"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-beiixmiixotmbdbugtyqcufprjns/Vidiot_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-clayunjuqulqtyasoluuyjahmlmw/Vidiot_Prefix.pch.pth Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275174788.199881
+e275174788.801137
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-clayunjuqulqtyasoluuyjahmlmw/Vidiot_Prefix.pch.pth
+xVidiot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@28"Precompile Vidiot_Prefix.pch275174788#275174788#0(0"0(0#0#66"/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch4300882208#1576"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-clayunjuqulqtyasoluuyjahmlmw/Vidiot_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-dgzjvgxnsqvujpfcxcbmfnboikwp/Vidiot_Prefix.pch.gch Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275014825.300411
+e275014831.248849
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-dgzjvgxnsqvujpfcxcbmfnboikwp/Vidiot_Prefix.pch.gch
+xVidiot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Vidiot_Prefix.pch275014825#275014831#0(0"0(0#0#66"/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch4300882208#1437"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-dgzjvgxnsqvujpfcxcbmfnboikwp/Vidiot_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-ejgmzbmghrqdfvalbqkqiqrdqtvp/Vidiot_Prefix.pch.pth Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275191770.373789
+e275191776.985385
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-ejgmzbmghrqdfvalbqkqiqrdqtvp/Vidiot_Prefix.pch.pth
+xVidiot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: argument unused during compilation: '-fno-objc-direct-dispatch'
+lSLF07#2@28"Precompile Vidiot_Prefix.pch275191770#275191776#0(80"clang: warning: argument unused during compilation: '-fno-objc-direct-dispatch'0(0#0#66"/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch4300882208#1602"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fno-objc-direct-dispatch -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-ejgmzbmghrqdfvalbqkqiqrdqtvp/Vidiot_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-enlmewmctmuxhrdoptdmjkhfcigk/Vidiot_Prefix.pch.gch Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-eriqlbvhzmwlzghjoiipvvvnphqw/Vidiot_Prefix.pch.pth Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275165305.891289
+e275165311.825608
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-eriqlbvhzmwlzghjoiipvvvnphqw/Vidiot_Prefix.pch.pth
+xVidiot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@28"Precompile Vidiot_Prefix.pch275165305#275165311#0(0"0(0#0#66"/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch4300882208#1561"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-eriqlbvhzmwlzghjoiipvvvnphqw/Vidiot_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-fqabpgcyjmgzxpcjpusplwxsnutb/Vidiot_Prefix.pch.gch Vidiot_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275335788.410419
+e275335795.228150
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-fqabpgcyjmgzxpcjpusplwxsnutb/Vidiot_Prefix.pch.gch
+xVidiot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Vidiot_Prefix.pch275335788#275335795#0(0"0(0#0#66"/Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch4300882208#1540"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/Vidiot-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug -F/Users/carterallen/Development/Mac/Vidiot/Vidiot/../CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Vidiot.build/Debug/Vidiot.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/Vidiot_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Vidiot_Prefix-fqabpgcyjmgzxpcjpusplwxsnutb/Vidiot_Prefix.pch.gch0#
+
+CTouch /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app
+s275406711.970273
+e275406712.006717
+r1
+xTouch
+x/Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app
+lSLF07#2@77"Touch /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app275406711#275406712#0(0"0(0#0#0"4300882208#150"    cd /Users/carterallen/Development/Mac/Vidiot/Vidiot    /usr/bin/touch -c /Users/carterallen/Development/Mac/Vidiot/Vidiot/build/Debug/Vidiot.app0#
+

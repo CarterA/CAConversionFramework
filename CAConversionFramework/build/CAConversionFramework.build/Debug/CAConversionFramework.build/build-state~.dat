@@ -1,0 +1,89 @@
+TCAConversionFramework
+v7
+r0
+t275077534.249210
+cCheck dependencies
+cSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current A
+cSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources Versions/Current/Resources
+cProcessInfoPlistFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist Info.plist
+cCopyStringsFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cTouch /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/English.lproj/InfoPlist.strings
+c000000004AB522110000000000000030
+t1253384721
+s48
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+t1253384734
+s136
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources
+t3
+s26
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1253384734
+s92
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist
+t1253384734
+s756
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current
+t3
+s1
+
+NInfo.plist
+c000000004AB522110000000000000357
+t1253384721
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies275077534#275077534#0(0"0(0#1#0"4300882208#0"0#
+
+CCopyStringsFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s275077534.089958
+e275077534.247078
+r1
+xCopyStringsFile
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings275077534#275077534#0(0"0(0#0#95"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/English.lproj/InfoPlist.strings4300882208#437"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj0#
+
+CProcessInfoPlistFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist Info.plist
+s275077534.078591
+e275077534.089886
+r1
+xProcessInfoPlistFile
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist275077534#275077534#0(0"0(0#0#74"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/Info.plist4300882208#292"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist0#
+
+CSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources Versions/Current/Resources
+s275077534.074999
+e275077534.078538
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@125"Process /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources275077534#275077534#0(0"0(0#0#0"4300882208#232"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /bin/ln -sf Versions/Current/Resources /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources0#
+
+CSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current A
+s275077534.074118
+e275077534.077000
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current
+xA
+lSLF07#2@132"Process /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current275077534#275077534#0(0"0(0#0#0"4300882208#214"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /bin/ln -sf A /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current0#
+
+CTouch /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+s275077534.247160
+e275077534.249189
+r1
+xTouch
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+lSLF07#2@113"Touch /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework275077534#275077534#0(0"0(0#0#0"4300882208#201"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /usr/bin/touch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework0#
+

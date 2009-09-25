@@ -1,0 +1,1136 @@
+TCAConversionFramework
+v7
+r0
+t275369688.737649
+cCheck dependencies
+cSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current A
+cSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources Versions/Current/Resources
+cSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers Versions/Current/Headers
+cSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework Versions/Current/CAConversionFramework
+cProcessInfoPlistFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist Info.plist
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h CAConversion.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h CAConversionCenter.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h Import.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h CAConversionInfo.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h avutil.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h avformat.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h avcodec.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h common.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h mem.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h mathematics.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h rational.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h intfloat_readwrite.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h log.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h pixfmt.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h avio.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h CAConversionSource.h
+cCopyStringsFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch.gch CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework normal x86_64
+cTouch /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dispatch/dispatch.h
+c000000004A585D8900000000000002C9
+t1247305097
+s713
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dlfcn.h
+c000000004A73D44F0000000000000B1C
+t1249104975
+s2844
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004A5C14A600000000000003EB
+t1247548582
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/inttypes.h
+c000000004A5C14A600000000000027D1
+t1247548582
+s10193
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/limits.h
+c000000004A5C14A6000000000000145A
+t1247548582
+s5210
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdarg.h
+c000000004A5C14A600000000000000EA
+t1247548582
+s234
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdint.h
+c000000004A11EB3D000000000000190C
+t1242688317
+s6412
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004A5C14A7000000000000178E
+t1247548583
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EB2400000000000010DD
+t1242688292
+s4317
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.h
+c000000004AB69FD10000000000000189
+t1253482449
+s393
+i<Cocoa/Cocoa.h>
+i"CAConversionInfo.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m
+c000000004AB8D6DD00000000000002C4
+t1253627613
+s708
+i"CAConversion.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.h
+c000000004AB83B2700000000000002C3
+t1253587751
+s707
+i<Cocoa/Cocoa.h>
+i"CAConversion.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m
+c000000004AB83B4100000000000005B9
+t1253587777
+s1465
+i"CAConversionCenter.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch
+c000000004AB97F3B000000000000010D
+t1253670715
+s269
+i<Cocoa/Cocoa.h>
+i<avcodec.h>
+i<avformat.h>
+i<avutil.h>
+i<dispatch/dispatch.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.h
+c000000004AB8D68600000000000001E9
+t1253627526
+s489
+i<Cocoa/Cocoa.h>
+i"CAConversionSource.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m
+c000000004AB9480700000000000001A7
+t1253656583
+s423
+i"CAConversionInfo.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.h
+c000000004AB98C2300000000000003C5
+t1253674019
+s965
+i<Cocoa/Cocoa.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m
+c000000004AB99753000000000000196E
+t1253676883
+s6510
+i"CAConversionSource.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.h
+c000000004AB859B20000000000000149
+t1253595570
+s329
+i<Cocoa/Cocoa.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m
+c000000004AB85AA8000000000000022E
+t1253595816
+s558
+i"CATime.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/English.lproj/InfoPlist.strings
+c000000004AB522110000000000000030
+t1253384721
+s48
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/Import.h
+c000000004AB85D7900000000000000E5
+t1253596537
+s229
+i<Cocoa/Cocoa.h>
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/Import.m
+c000000004AB5276A00000000000000C8
+t1253386090
+s200
+i"Import.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/MediaInfoDLL.h
+c000000004AB67B530000000000006405
+t1253473107
+s25605
+i<gmodule.h>
+i<windows.h>
+i<dlfcn.h>
+i<string>
+i<sstream>
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avcodec.h
+c000000004AB698FC000000000001E523
+t1253480700
+s124195
+i<errno.h>
+i"avutil.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avformat.h
+c000000004AB69975000000000000B139
+t1253480821
+s45369
+i<time.h>
+i<stdio.h>
+i"avcodec.h"
+i"avio.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avio.h
+c000000004AB699910000000000003716
+t1253480849
+s14102
+i<stdint.h>
+i"common.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h
+c000000004AB38FFF0000000000000828
+t1253281791
+s2088
+i"common.h"
+i"mathematics.h"
+i"rational.h"
+i"intfloat_readwrite.h"
+i"log.h"
+i"pixfmt.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o
+t1253674020
+s11764
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o
+t1253674020
+s14100
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionFramework.LinkFileList
+c000000004AB8D6A400000000000002B4
+t1253627556
+s692
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o
+t1253674020
+s12160
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o
+t1253676888
+s56636
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CATime.o
+t1253595868
+s9444
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/Import.o
+t2
+s0
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversion.plist
+t1253656588
+s275
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversionCenter.plist
+t1253656588
+s275
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversionInfo.plist
+t1253656588
+s275
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversionSource.plist
+t1253656588
+s275
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+t1253676888
+s238
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework
+t3
+s38
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers
+t3
+s24
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/PrivateHeaders
+t3
+s31
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources
+t3
+s26
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework
+t1253676888
+s6512776
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h
+t1253482451
+s393
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h
+t1253587779
+s707
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h
+t1253627557
+s489
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h
+t1253674020
+s965
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h
+t1253596551
+s229
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/MediaInfoDLL.h
+t1253473108
+s25605
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h
+t1253596433
+s124195
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h
+t1253596433
+s45369
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h
+t1253596433
+s14102
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h
+t1253596433
+s2088
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h
+t1253596433
+s8322
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h
+t1253596433
+s1358
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h
+t1253596433
+s3545
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h
+t1253596433
+s2397
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h
+t1253596433
+s4181
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h
+t1253596433
+s9175
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h
+t1253596433
+s3458
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/CAConversion.h
+t1253386214
+s359
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/CAConversionCenter.h
+t1253386214
+s352
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/avcodec.h
+t2
+s0
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1253384734
+s92
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist
+t1253384734
+s756
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/libmediainfo.a
+t1253471616
+s6022024
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/libmediainfo.la
+t1253471304
+s781
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/libzen.a
+t1253471616
+s388264
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/libzen.la
+t1253471304
+s736
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current
+t3
+s1
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/common.h
+c000000004AB38FFF0000000000002082
+t1253281791
+s8322
+i<ctype.h>
+i<errno.h>
+i<inttypes.h>
+i<limits.h>
+i<math.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"config.h"
+i"mem.h"
+i"internal.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/intfloat_readwrite.h
+c000000004AB38FFF000000000000054E
+t1253281791
+s1358
+i<stdint.h>
+i"common.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libavcodec.a
+c000000004AB697C000000000015F6650
+t1253480384
+s23029328
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libavformat.a
+c000000004AB697730000000000621CC8
+t1253480307
+s6429896
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libavutil.a
+c000000004AB697C20000000000035F30
+t1253480386
+s220976
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libmediainfo.a
+c000000004AB6735800000000005BE388
+t1253471064
+s6022024
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libmediainfo.la
+c000000004AB673D8000000000000030D
+t1253471192
+s781
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libzen.a
+c000000004AB673B6000000000005ECA8
+t1253471158
+s388264
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libzen.la
+c000000004AB673E600000000000002E0
+t1253471206
+s736
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/log.h
+c000000004AB38FFF0000000000000DD9
+t1253281791
+s3545
+i<stdarg.h>
+i"avutil.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/mathematics.h
+c000000004AB38FFF000000000000095D
+t1253281791
+s2397
+i<stdint.h>
+i<math.h>
+i"common.h"
+i"rational.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/mem.h
+c000000004AB38FFF0000000000001055
+t1253281791
+s4181
+i"common.h"
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/pixfmt.h
+c000000004AB38FFF00000000000023D7
+t1253281791
+s9175
+
+N/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/rational.h
+c000000004AB38FFF0000000000000D82
+t1253281791
+s3458
+i<stdint.h>
+i"common.h"
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch.pth
+t1253481967
+s7637500
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-aqhksxuovefengfgplnoliyzuuug/CAConversionFramework_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch.pth
+t1253671558
+s7637504
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-clertbhkcipjzufgyrnehxbjtvbx/CAConversionFramework_Prefix.pch.pth
+t1253480850
+s7631256
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch.gch
+t1253670722
+s55621744
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-ebqtlchtbrujoqfvkthslvenyxvp/CAConversionFramework_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-hahbmitozqhajggyooepyufwpbvp/CAConversionFramework_Prefix.pch.gch
+t1253587398
+s55621744
+
+NInfo.plist
+c000000004AB522110000000000000357
+t1253384721
+s855
+
+CAnalyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m
+s275349388.380183
+e275349388.552552
+r1
+xAnalyze
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m
+lSLF07#2@86"Analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m275349388#275349388#0(0"0(0#0#78"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m4300882208#2090"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch --analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversion.plist0#
+
+CAnalyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m
+s275349388.381062
+e275349388.553163
+r1
+xAnalyze
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m
+lSLF07#2@92"Analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m275349388#275349388#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m4300882208#2102"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch --analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversionCenter.plist0#
+
+CAnalyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m
+s275349388.553252
+e275349388.637536
+r1
+xAnalyze
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m
+lSLF07#2@90"Analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m275349388#275349388#0(0"0(0#0#82"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m4300882208#2098"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch --analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversionInfo.plist0#
+
+CAnalyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m
+s275349388.554412
+e275349388.660094
+r1
+xAnalyze
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m
+lSLF07#2@92"Analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m275349388#275349388#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m4300882208#2102"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch --analyze /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/StaticAnalyzer/normal/x86_64/CAConversionSource.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies275369687#275369687#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275366820.039749
+e275366820.220305
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m275366820#275366820#0(0"0(0#0#78"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m4300882208#2036"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275364358.862652
+e275364358.897611
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@86"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m275364358#275364358#0(0"0(0#0#78"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m4300882208#2072"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275366820.040425
+e275366820.244866
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m275366820#275366820#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m4300882208#2048"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275364358.863709
+e275364358.900679
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@92"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m275364358#275364358#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m4300882208#2084"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275366820.220403
+e275366820.415591
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m275366820#275366820#0(0"0(0#0#82"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m4300882208#2044"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275364358.897767
+e275364358.928607
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@90"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m275364358#275364358#0(0"0(0#0#82"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m4300882208#2080"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275369687.927007
+e275369688.362596
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m275369687#275369688#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m4300882208#2048"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275364378.435077
+e275364378.498629
+r0
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m:75:6:{75:5-75:6}: error: variable is not assignable (missing __block type specifier)
+o                                 k++;
+o                                 ~^
+o1 diagnostic generated.
+lSLF07#2@92"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m275364378#275364378#0(244"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m:75:6:{75:5-75:6}: error: variable is not assignable (missing __block type specifier)                                 k++;                                 ~^1(4@59"Variable is not assignable (missing __block type specifier)275364378#0#170#0(6@84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m275364377#75#6#0#0#59"variable is not assignable (missing __block type specifier)1(6@84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m275364377#75#5#75#6#0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m4300882208#2084"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o1#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CATime.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275288667.184903
+e275288668.176512
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CATime.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m: In function '-[CATime humanReadableTime]':
+o/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:23: warning: unused variable 'hours'
+o/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:30: warning: control reaches end of non-void function
+lSLF07#2@80"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288667#275288668#0(354"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m: In function '-[CATime humanReadableTime]':/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:23: warning: unused variable 'hours'/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:30: warning: control reaches end of non-void function2(22@23"Unused variable 'hours'275288668#117#110#0(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288616#23#0#23#0#19"unused variable '*'0(22@40"Control reaches end of non-void function275288668#227#127#0(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288616#30#0#30#0#40"control reaches end of non-void function0(0#0#72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m4300882208#2024"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-hahbmitozqhajggyooepyufwpbvp/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CATime.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CATime.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275288401.249499
+e275288401.271090
+r0
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CATime.o
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:21:14:{21:2-21:13}{21:17-21:19}: error: invalid operands to binary expression ('float' and 'float')
+o         calcSeconds %= 60;
+o         ~~~~~~~~~~~ ^  ~~
+o/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:23:7:{23:2-23:6}{23:10-23:12}: error: invalid operands to binary expression ('float' and 'float')
+o         mins %= 60;
+o         ~~~~ ^  ~~
+o2 diagnostics generated.
+lSLF07#2@80"Compile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288401#275288401#0(440"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:21:14:{21:2-21:13}{21:17-21:19}: error: invalid operands to binary expression ('float' and 'float')         calcSeconds %= 60;         ~~~~~~~~~~~ ^  ~~/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m:23:7:{23:2-23:6}{23:10-23:12}: error: invalid operands to binary expression ('float' and 'float')         mins %= 60;         ~~~~ ^  ~~2(4@59"Invalid operands to binary expression ('float' and 'float')275288401#0#173#0(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288400#21#14#0#0#47"invalid operands to binary expression (* and *)2(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288400#21#2#21#13#6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288400#21#17#21#19#4@59"Invalid operands to binary expression ('float' and 'float')275288401#228#171#0(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288400#23#7#0#0#47"invalid operands to binary expression (* and *)2(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288400#23#2#23#6#6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m275288400#23#10#23#12#0#0#72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m4300882208#2060"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CATime.m -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CATime.o1#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/Import.o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/Import.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s275077534.089958
+e275077534.247078
+r1
+xCopyStringsFile
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings275077534#275077534#0(0"0(0#0#95"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/English.lproj/InfoPlist.strings4300882208#437"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h CAConversion.h
+s275175251.850636
+e275175251.855520
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h
+xCAConversion.h
+lSLF07#2@19"Copy CAConversion.h275175251#275175251#0(0"0(0#0#78"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.h4300882208#425"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h CAConversionCenter.h
+s275280579.613888
+e275280579.738616
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h
+xCAConversionCenter.h
+lSLF07#2@25"Copy CAConversionCenter.h275280579#275280579#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.h4300882208#431"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h CAConversionInfo.h
+s275320357.124216
+e275320357.254893
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h
+xCAConversionInfo.h
+lSLF07#2@23"Copy CAConversionInfo.h275320357#275320357#0(0"0(0#0#82"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.h4300882208#429"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionInfo.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h CAConversionSource.h
+s275366820.035506
+e275366820.039529
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h
+xCAConversionSource.h
+lSLF07#2@25"Copy CAConversionSource.h275366820#275366820#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.h4300882208#431"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionSource.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h Import.h
+s275289351.940229
+e275289351.946051
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h
+xImport.h
+lSLF07#2@13"Copy Import.h275289351#275289351#0(0"0(0#0#72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/Import.h4300882208#419"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/Import.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/MediaInfoDLL.h MediaInfoDLL.h
+s275165908.897925
+e275165908.902661
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/MediaInfoDLL.h
+xMediaInfoDLL.h
+lSLF07#2@19"Copy MediaInfoDLL.h275165908#275165908#0(0"0(0#0#78"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/MediaInfoDLL.h4300882208#425"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/MediaInfoDLL.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h avcodec.h
+s275289233.449979
+e275289233.550748
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h
+xavcodec.h
+lSLF07#2@14"Copy avcodec.h275289233#275289233#0(0"0(0#0#73"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avcodec.h4300882208#420"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avcodec.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h avformat.h
+s275289233.446264
+e275289233.527437
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h
+xavformat.h
+lSLF07#2@15"Copy avformat.h275289233#275289233#0(0"0(0#0#74"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avformat.h4300882208#421"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avformat.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h avio.h
+s275289233.467601
+e275289233.481602
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h
+xavio.h
+lSLF07#2@11"Copy avio.h275289233#275289233#0(0"0(0#0#70"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avio.h4300882208#417"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avio.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h avutil.h
+s275289233.445673
+e275289233.466830
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h
+xavutil.h
+lSLF07#2@13"Copy avutil.h275289233#275289233#0(0"0(0#0#72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h4300882208#419"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h common.h
+s275289233.453242
+e275289233.474717
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h
+xcommon.h
+lSLF07#2@13"Copy common.h275289233#275289233#0(0"0(0#0#72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/common.h4300882208#419"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/common.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h intfloat_readwrite.h
+s275289233.459663
+e275289233.499937
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h
+xintfloat_readwrite.h
+lSLF07#2@25"Copy intfloat_readwrite.h275289233#275289233#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/intfloat_readwrite.h4300882208#431"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/intfloat_readwrite.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h log.h
+s275289233.463343
+e275289233.474807
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h
+xlog.h
+lSLF07#2@10"Copy log.h275289233#275289233#0(0"0(0#0#69"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/log.h4300882208#416"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/log.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h mathematics.h
+s275289233.456123
+e275289233.486072
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h
+xmathematics.h
+lSLF07#2@18"Copy mathematics.h275289233#275289233#0(0"0(0#0#77"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/mathematics.h4300882208#424"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/mathematics.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h mem.h
+s275289233.455266
+e275289233.508897
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h
+xmem.h
+lSLF07#2@10"Copy mem.h275289233#275289233#0(0"0(0#0#69"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/mem.h4300882208#416"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/mem.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h pixfmt.h
+s275289233.466988
+e275289233.474610
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h
+xpixfmt.h
+lSLF07#2@13"Copy pixfmt.h275289233#275289233#0(0"0(0#0#72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/pixfmt.h4300882208#419"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/pixfmt.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h rational.h
+s275289233.457829
+e275289233.466928
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h
+xrational.h
+lSLF07#2@15"Copy rational.h275289233#275289233#0(0"0(0#0#74"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/rational.h4300882208#421"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/rational.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/CAConversion.h CAConversion.h
+s275079014.941550
+e275079014.945844
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/CAConversion.h
+xCAConversion.h
+lSLF07#2@19"Copy CAConversion.h275079014#275079014#0(0"0(0#0#78"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.h4300882208#432"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversion.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/CAConversionCenter.h CAConversionCenter.h
+s275079014.942058
+e275079014.948552
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/CAConversionCenter.h
+xCAConversionCenter.h
+lSLF07#2@25"Copy CAConversionCenter.h275079014#275079014#0(0"0(0#0#84"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.h4300882208#438"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionCenter.h /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/PrivateHeaders/avcodec.h avcodec.h
+r0
+
+CCpResource build/Debug/CAConversionFramework.framework/Versions/A/Resources/libmediainfo.la libmediainfo.la
+s275164104.763276
+e275164104.806931
+r1
+xCpResource
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Resources/libmediainfo.la
+xlibmediainfo.la
+lSLF07#2@20"Copy libmediainfo.la275164104#275164104#0(0"0(0#0#79"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libmediainfo.la4300882208#428"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libmediainfo.la /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources0#
+
+CCpResource build/Debug/CAConversionFramework.framework/Versions/A/Resources/libzen.la libzen.la
+s275164104.765389
+e275164104.807054
+r1
+xCpResource
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Resources/libzen.la
+xlibzen.la
+lSLF07#2@14"Copy libzen.la275164104#275164104#0(0"0(0#0#73"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libzen.la4300882208#422"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libzen.la /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources0#
+
+CLd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework normal x86_64
+s275369688.362681
+e275369688.735390
+r1
+xLd
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework
+xnormal
+xx86_64
+lSLF07#2@145"Link /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework275369688#275369688#0(0"0(0#0#0"4300882208#1026"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -L/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -filelist /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionFramework.LinkFileList -install_name @executable_path/../Frameworks/CAConversionFramework.framework/Versions/A/CAConversionFramework -mmacosx-version-min=10.6 -lbz2 -lz -framework Cocoa -lavcodec -lavformat -lavutil -single_module -compatibility_version 1 -current_version 1 -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework0#
+
+CPBXCp build/Debug/CAConversionFramework.framework/Versions/A/Resources/libmediainfo.a libmediainfo.a
+s275164416.145597
+e275164416.232291
+r1
+xPBXCp
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Resources/libmediainfo.a
+xlibmediainfo.a
+lSLF07#2@19"Copy libmediainfo.a275164416#275164416#0(0"0(0#0#78"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libmediainfo.a4300882208#427"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libmediainfo.a /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources0#
+
+CPBXCp build/Debug/CAConversionFramework.framework/Versions/A/Resources/libmediainfo.la libmediainfo.la
+r0
+
+CPBXCp build/Debug/CAConversionFramework.framework/Versions/A/Resources/libzen.a libzen.a
+s275164416.147022
+e275164416.182976
+r1
+xPBXCp
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Resources/libzen.a
+xlibzen.a
+lSLF07#2@13"Copy libzen.a275164416#275164416#0(0"0(0#0#72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libzen.a4300882208#421"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/libzen.a /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources0#
+
+CPBXCp build/Debug/CAConversionFramework.framework/Versions/A/Resources/libzen.la libzen.la
+r0
+
+CProcessInfoPlistFile /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist Info.plist
+s275077534.078591
+e275077534.089886
+r1
+xProcessInfoPlistFile
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist275077534#275077534#0(0"0(0#0#74"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/Info.plist4300882208#292"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch.pth CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch.pth CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275174766.333719
+e275174767.977763
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch.pth
+xCAConversionFramework_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@43"Precompile CAConversionFramework_Prefix.pch275174766#275174767#0(0"0(0#0#96"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch4300882208#1923"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-alesvpcsinjlemfhfvdwxxsqadju/CAConversionFramework_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-aqhksxuovefengfgplnoliyzuuug/CAConversionFramework_Prefix.pch.gch CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch.pth CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275364357.809127
+e275364358.862537
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch.pth
+xCAConversionFramework_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@43"Precompile CAConversionFramework_Prefix.pch275364357#275364358#0(0"0(0#0#96"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch4300882208#1923"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-bccblfwnlypkkadrvhxlostuhdjd/CAConversionFramework_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-clertbhkcipjzufgyrnehxbjtvbx/CAConversionFramework_Prefix.pch.pth CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275173650.178290
+e275173650.899005
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-clertbhkcipjzufgyrnehxbjtvbx/CAConversionFramework_Prefix.pch.pth
+xCAConversionFramework_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@43"Precompile CAConversionFramework_Prefix.pch275173650#275173650#0(0"0(0#0#96"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch4300882208#1908"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-clertbhkcipjzufgyrnehxbjtvbx/CAConversionFramework_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch.gch CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275363518.451664
+e275363522.260870
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch.gch
+xCAConversionFramework_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile CAConversionFramework_Prefix.pch275363518#275363522#0(0"0(0#0#96"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch4300882208#1887"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-czuxdsdjvbudmpddeifdkdvykwna/CAConversionFramework_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-ebqtlchtbrujoqfvkthslvenyxvp/CAConversionFramework_Prefix.pch.pth CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s275173501.136783
+e275173501.452229
+r0
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-ebqtlchtbrujoqfvkthslvenyxvp/CAConversionFramework_Prefix.pch.pth
+xCAConversionFramework_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch:7:
+oIn file included from /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avcodec.h:30:
+o/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h:56:10: fatal error: 'common.h' file not found
+o #include "common.h"
+o          ^
+o1 diagnostic generated.
+lSLF07#2@43"Precompile CAConversionFramework_Prefix.pch275173501#275173501#0(374"In file included from /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch:7:In file included from /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avcodec.h:30:/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h:56:10: fatal error: 'common.h' file not found #include "common.h"          ^1(4@25"'common.h' file not found275173501#222#119#3(7@99"In file included from /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avcodec.h:30:275173501#122#100#0(6@73"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avcodec.h275173500#30#0#30#0#0"0(7@121"In file included from /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch:7:275173501#0#122#0(6@96"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch275173464#7#0#7#0#0"0(13@101"'common.h' file not found in /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h275173501#18446744073709551615#0#0(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h274974591#56#10#0#0#0"0(6@72"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/avutil.h274974591#56#10#0#0#18"'*' file not found0(0#0#96"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch4300882208#1908"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-ebqtlchtbrujoqfvkthslvenyxvp/CAConversionFramework_Prefix.pch.pth1#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-hahbmitozqhajggyooepyufwpbvp/CAConversionFramework_Prefix.pch.gch CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275280179.179982
+e275280198.759355
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-hahbmitozqhajggyooepyufwpbvp/CAConversionFramework_Prefix.pch.gch
+xCAConversionFramework_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile CAConversionFramework_Prefix.pch275280179#275280198#0(0"0(0#0#96"/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch4300882208#1887"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-hahbmitozqhajggyooepyufwpbvp/CAConversionFramework_Prefix.pch.gch0#
+
+CSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework Versions/Current/CAConversionFramework
+s275077902.598467
+e275077902.655486
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework
+xVersions/Current/CAConversionFramework
+lSLF07#2@137"Process /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework275077902#275077902#0(0"0(0#0#0"4300882208#256"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /bin/ln -sf Versions/Current/CAConversionFramework /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework0#
+
+CSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers Versions/Current/Headers
+s275078051.978018
+e275078051.980233
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers
+xVersions/Current/Headers
+lSLF07#2@123"Process /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers275078051#275078051#0(0"0(0#0#0"4300882208#228"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /bin/ln -sf Versions/Current/Headers /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers0#
+
+CSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/PrivateHeaders Versions/Current/PrivateHeaders
+s275079014.939284
+e275079014.941450
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/PrivateHeaders
+xVersions/Current/PrivateHeaders
+lSLF07#2@130"Process /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/PrivateHeaders275079014#275079014#0(0"0(0#0#0"4300882208#242"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /bin/ln -sf Versions/Current/PrivateHeaders /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/PrivateHeaders0#
+
+CSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources Versions/Current/Resources
+s275077534.074999
+e275077534.078538
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@125"Process /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources275077534#275077534#0(0"0(0#0#0"4300882208#232"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /bin/ln -sf Versions/Current/Resources /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources0#
+
+CSymLink /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current A
+s275077534.074118
+e275077534.077000
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current
+xA
+lSLF07#2@132"Process /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current275077534#275077534#0(0"0(0#0#0"4300882208#214"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /bin/ln -sf A /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current0#
+
+CTouch /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+s275369688.735476
+e275369688.737622
+r1
+xTouch
+x/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework
+lSLF07#2@113"Touch /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework275369688#275369688#0(0"0(0#0#0"4300882208#201"    cd /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework    /usr/bin/touch -c /Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/build/Debug/CAConversionFramework.framework0#
+
