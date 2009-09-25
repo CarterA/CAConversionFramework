@@ -1,0 +1,34 @@
+Before you go on, please make sure you have read the license file.
+
+Background:
+I was working on a rather simple video conversion tool, based around the
+ffmpeg tool, when I realized how painful interfacing with a command line
+utility from Cocoa would be. I went through with development anyway, only
+to find my original expectations to be true. I briefly tried to simply use
+the libraries directly in the application, but soon found them to be
+impossibly messy.
+
+Goal:
+That's where CAConversionFramework comes in. The goal of the framework
+is to provide a full-featured Cocoa API, allowing developers to create
+feature-rich video converters, of both wide and narrow scope. 
+CAConversionFramework is designed to be extensible and also easy to
+understand.
+
+A few notes:
+	* CAConversionFramework is not even close to being done. Currently
+	it is basically useless.
+	* The prefix "CA" is used as they are my initials:  try not to get
+	them confused with Apple's use of CA, to mean Core Animation.
+	* CAConversionFramework makes use of Grand Central Dispatch, which
+	means it requires OS 10.6 or later.
+	* The "Vidiot" project is provided just as a test application.
+
+Basic Layout:
+The framework is centralized around CAConversion objects, which represent
+a video conversion:  either preparing to be run, running, or completed.
+CAConversion objects are monitored and managed by a shared class known
+as the CAConversionCenter (think of NSNotificationCenter, etc.) Each 
+CAConversion object has many objects associated with it, including info
+objects, streams, etc. All of these can be accessed using simple getters
+and setters.
