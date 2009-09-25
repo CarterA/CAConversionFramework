@@ -1,0 +1,801 @@
+TCAConversionFramework
+v7
+r0
+t275542545.771240
+cCheck dependencies
+cSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current A
+cSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources Versions/Current/Resources
+cSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers Versions/Current/Headers
+cSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework Versions/Current/CAConversionFramework
+cProcessInfoPlistFile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist Info.plist
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h CAConversion.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h CAConversionCenter.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h Import.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h CAConversionInfo.h
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h "AV Libraries/Headers/avutil.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h "AV Libraries/Headers/avformat.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h "AV Libraries/Headers/avcodec.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h "AV Libraries/Headers/common.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h "AV Libraries/Headers/mem.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h "AV Libraries/Headers/mathematics.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h "AV Libraries/Headers/rational.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h "AV Libraries/Headers/intfloat_readwrite.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h "AV Libraries/Headers/log.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h "AV Libraries/Headers/pixfmt.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h "AV Libraries/Headers/avio.h"
+cCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h CAConversionSource.h
+cCopyStringsFile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch.gch CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework normal x86_64
+cTouch /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dispatch/dispatch.h
+c000000004A585D8900000000000002C9
+t1247305097
+s713
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004A5C14A600000000000003EB
+t1247548582
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/inttypes.h
+c000000004A5C14A600000000000027D1
+t1247548582
+s10193
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004A5C14A7000000000000178E
+t1247548583
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EB2400000000000010DD
+t1242688292
+s4317
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avcodec.h
+c000000004AB698FC000000000001E523
+t1253480700
+s124195
+i<errno.h>
+i"avutil.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avformat.h
+c000000004AB69975000000000000B139
+t1253480821
+s45369
+i<time.h>
+i<stdio.h>
+i"avcodec.h"
+i"avio.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avio.h
+c000000004AB699910000000000003716
+t1253480849
+s14102
+i<stdint.h>
+i"common.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avutil.h
+c000000004AB38FFF0000000000000828
+t1253281791
+s2088
+i"common.h"
+i"mathematics.h"
+i"rational.h"
+i"intfloat_readwrite.h"
+i"log.h"
+i"pixfmt.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/common.h
+c000000004AB38FFF0000000000002082
+t1253281791
+s8322
+i<ctype.h>
+i<errno.h>
+i<inttypes.h>
+i<limits.h>
+i<math.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"config.h"
+i"mem.h"
+i"internal.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/intfloat_readwrite.h
+c000000004AB38FFF000000000000054E
+t1253281791
+s1358
+i<stdint.h>
+i"common.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/log.h
+c000000004AB38FFF0000000000000DD9
+t1253281791
+s3545
+i<stdarg.h>
+i"avutil.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/mathematics.h
+c000000004AB38FFF000000000000095D
+t1253281791
+s2397
+i<stdint.h>
+i<math.h>
+i"common.h"
+i"rational.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/mem.h
+c000000004AB38FFF0000000000001055
+t1253281791
+s4181
+i"common.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/pixfmt.h
+c000000004AB38FFF00000000000023D7
+t1253281791
+s9175
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/rational.h
+c000000004AB38FFF0000000000000D82
+t1253281791
+s3458
+i<stdint.h>
+i"common.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/libavcodec.a
+c000000004AB697C000000000015F6650
+t1253480384
+s23029328
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/libavformat.a
+c000000004AB697730000000000621CC8
+t1253480307
+s6429896
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/libavutil.a
+c000000004AB697C20000000000035F30
+t1253480386
+s220976
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.h
+c000000004AB69FD10000000000000189
+t1253482449
+s393
+i<Cocoa/Cocoa.h>
+i"CAConversionInfo.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.m
+c000000004AB8D6DD00000000000002C4
+t1253627613
+s708
+i"CAConversion.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.h
+c000000004AB83B2700000000000002C3
+t1253587751
+s707
+i<Cocoa/Cocoa.h>
+i"CAConversion.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.m
+c000000004AB83B4100000000000005B9
+t1253587777
+s1465
+i"CAConversionCenter.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionFramework_Prefix.pch
+c000000004ABC3A8C000000000000014C
+t1253849740
+s332
+i<Cocoa/Cocoa.h>
+i"AV Libraries/Headers/avcodec.h"
+i"AV Libraries/Headers/avformat.h"
+i"AV Libraries/Headers/avutil.h"
+i<dispatch/dispatch.h>
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.h
+c000000004AB8D68600000000000001E9
+t1253627526
+s489
+i<Cocoa/Cocoa.h>
+i"CAConversionSource.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m
+c000000004AB9480700000000000001A7
+t1253656583
+s423
+i"CAConversionInfo.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.h
+c000000004AB98C2300000000000003C5
+t1253674019
+s965
+i<Cocoa/Cocoa.h>
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.m
+c000000004ABACC880000000000001969
+t1253756040
+s6505
+i"CAConversionSource.h"
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/English.lproj/InfoPlist.strings
+c000000004AB522110000000000000030
+t1253384721
+s48
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Import.h
+c000000004AB85D7900000000000000E5
+t1253596537
+s229
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/avcodec.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/avformat.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/avio.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/avutil.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o
+t1253849744
+s11892
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o
+t1253849744
+s14236
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionFramework.LinkFileList
+c000000004ABC39B900000000000002F0
+t1253849529
+s752
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o
+t1253849744
+s12288
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o
+t1253849744
+s56764
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework
+t1253849745
+s204
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework
+t3
+s38
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers
+t3
+s24
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources
+t3
+s26
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework
+t1253849745
+s6527040
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h
+t1253849529
+s393
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h
+t1253849529
+s707
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h
+t1253849529
+s489
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h
+t1253849529
+s965
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h
+t1253849529
+s229
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h
+t1253849529
+s124195
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h
+t1253849529
+s45369
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h
+t1253849529
+s14102
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h
+t1253849529
+s2088
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h
+t1253849529
+s8322
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h
+t1253849529
+s1358
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h
+t1253849529
+s3545
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h
+t1253849529
+s2397
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h
+t1253849529
+s4181
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h
+t1253849529
+s9175
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h
+t1253849529
+s3458
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1253849530
+s92
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist
+t1253849529
+s756
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current
+t3
+s1
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/common.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/intfloat_readwrite.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/libavcodec.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/libavformat.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/libavutil.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/log.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/mathematics.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/mem.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/pixfmt.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/rational.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch.gch
+t1253849744
+s55621744
+
+NInfo.plist
+c000000004AB522110000000000000357
+t1253384721
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies275542541#275542541#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275542544.248117
+e275542544.545039
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.m275542544#275542544#0(0"0(0#0#93"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.m4300882208#2201"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.m -o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversion.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275542544.248893
+e275542544.556161
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.m275542544#275542544#0(0"0(0#0#99"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.m4300882208#2213"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.m -o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionCenter.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275542544.545132
+e275542544.704521
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m275542544#275542544#0(0"0(0#0#97"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m4300882208#2209"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m -o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionInfo.o0#
+
+CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275542544.556392
+e275542544.746860
+r1
+xCompileC
+xbuild/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.m275542544#275542544#0(0"0(0#0#99"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.m4300882208#2213"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -include /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.m -o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionSource.o0#
+
+CCopyStringsFile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s275542329.878241
+e275542330.183084
+r1
+xCopyStringsFile
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings275542329#275542330#0(0"0(0#0#110"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/English.lproj/InfoPlist.strings4300882208#467"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h CAConversion.h
+s275542329.835145
+e275542329.856338
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversion.h
+xCAConversion.h
+lSLF07#2@19"Copy CAConversion.h275542329#275542329#0(0"0(0#0#93"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.h4300882208#470"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversion.h /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h CAConversionCenter.h
+s275542329.835662
+e275542329.864082
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionCenter.h
+xCAConversionCenter.h
+lSLF07#2@25"Copy CAConversionCenter.h275542329#275542329#0(0"0(0#0#99"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.h4300882208#476"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionCenter.h /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h CAConversionInfo.h
+s275542329.836429
+e275542329.867208
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionInfo.h
+xCAConversionInfo.h
+lSLF07#2@23"Copy CAConversionInfo.h275542329#275542329#0(0"0(0#0#97"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.h4300882208#474"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.h /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h CAConversionSource.h
+s275542329.865700
+e275542329.878183
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/CAConversionSource.h
+xCAConversionSource.h
+lSLF07#2@25"Copy CAConversionSource.h275542329#275542329#0(0"0(0#0#99"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.h4300882208#476"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionSource.h /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h Import.h
+s275542329.836044
+e275542329.854492
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/Import.h
+xImport.h
+lSLF07#2@13"Copy Import.h275542329#275542329#0(0"0(0#0#87"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Import.h4300882208#464"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Import.h /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h "AV Libraries/Headers/avcodec.h"
+s275542329.837631
+e275542329.877152
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h
+xAV Libraries/Headers/avcodec.h
+lSLF07#2@35"Copy AV Libraries/Headers/avcodec.h275542329#275542329#0(0"0(0#0#109"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avcodec.h4300882208#488"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avcodec.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avcodec.h avcodec.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h "AV Libraries/Headers/avformat.h"
+s275542329.837226
+e275542329.867422
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h
+xAV Libraries/Headers/avformat.h
+lSLF07#2@36"Copy AV Libraries/Headers/avformat.h275542329#275542329#0(0"0(0#0#110"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avformat.h4300882208#489"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avformat.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avformat.h avformat.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h "AV Libraries/Headers/avio.h"
+s275542329.864243
+e275542329.874948
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h
+xAV Libraries/Headers/avio.h
+lSLF07#2@32"Copy AV Libraries/Headers/avio.h275542329#275542329#0(0"0(0#0#106"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avio.h4300882208#485"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avio.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avio.h avio.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h "AV Libraries/Headers/avutil.h"
+s275542329.836827
+e275542329.867329
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h
+xAV Libraries/Headers/avutil.h
+lSLF07#2@34"Copy AV Libraries/Headers/avutil.h275542329#275542329#0(0"0(0#0#108"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avutil.h4300882208#487"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/avutil.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/avutil.h avutil.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h "AV Libraries/Headers/common.h"
+s275542329.838039
+e275542329.860636
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h
+xAV Libraries/Headers/common.h
+lSLF07#2@34"Copy AV Libraries/Headers/common.h275542329#275542329#0(0"0(0#0#108"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/common.h4300882208#487"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/common.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/common.h common.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h "AV Libraries/Headers/intfloat_readwrite.h"
+s275542329.856396
+e275542329.871365
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h
+xAV Libraries/Headers/intfloat_readwrite.h
+lSLF07#2@46"Copy AV Libraries/Headers/intfloat_readwrite.h275542329#275542329#0(0"0(0#0#120"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/intfloat_readwrite.h4300882208#499"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/intfloat_readwrite.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/intfloat_readwrite.h intfloat_readwrite.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h "AV Libraries/Headers/log.h"
+s275542329.860709
+e275542329.872161
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h
+xAV Libraries/Headers/log.h
+lSLF07#2@31"Copy AV Libraries/Headers/log.h275542329#275542329#0(0"0(0#0#105"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/log.h4300882208#484"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/log.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/log.h log.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h "AV Libraries/Headers/mathematics.h"
+s275542329.838850
+e275542329.864190
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h
+xAV Libraries/Headers/mathematics.h
+lSLF07#2@39"Copy AV Libraries/Headers/mathematics.h275542329#275542329#0(0"0(0#0#113"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/mathematics.h4300882208#492"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/mathematics.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mathematics.h mathematics.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h "AV Libraries/Headers/mem.h"
+s275542329.838447
+e275542329.862327
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h
+xAV Libraries/Headers/mem.h
+lSLF07#2@31"Copy AV Libraries/Headers/mem.h275542329#275542329#0(0"0(0#0#105"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/mem.h4300882208#484"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/mem.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/mem.h mem.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h "AV Libraries/Headers/pixfmt.h"
+s275542329.862390
+e275542329.870093
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h
+xAV Libraries/Headers/pixfmt.h
+lSLF07#2@34"Copy AV Libraries/Headers/pixfmt.h275542329#275542329#0(0"0(0#0#108"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/pixfmt.h4300882208#487"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/pixfmt.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/pixfmt.h pixfmt.h
+r0
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h "AV Libraries/Headers/rational.h"
+s275542329.854584
+e275542329.871465
+r1
+xCpHeader
+xbuild/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h
+xAV Libraries/Headers/rational.h
+lSLF07#2@36"Copy AV Libraries/Headers/rational.h275542329#275542329#0(0"0(0#0#110"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/rational.h4300882208#489"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries/Headers/rational.h" /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/rational.h rational.h
+r0
+
+CLd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework normal x86_64
+s275542544.747033
+e275542545.768992
+r1
+xLd
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework
+xnormal
+xx86_64
+lSLF07#2@160"Link /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework275542544#275542545#0(0"0(0#0#0"4300882208#1212"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug -L/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework "-L/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/AV Libraries" -F/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug -filelist /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAConversionFramework.LinkFileList -install_name @executable_path/../Frameworks/CAConversionFramework.framework/Versions/A/CAConversionFramework -mmacosx-version-min=10.6 -lbz2 -lz -framework Cocoa -lavcodec -lavformat -lavutil -single_module -compatibility_version 1 -current_version 1 -o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework0#
+
+CProcessInfoPlistFile /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist Info.plist
+s275542329.820401
+e275542329.835082
+r1
+xProcessInfoPlistFile
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist275542329#275542329#0(0"0(0#0#89"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Info.plist4300882208#322"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Info.plist0#
+
+CProcessPCH /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch.gch CAConversionFramework_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s275542541.434691
+e275542544.247937
+r1
+xProcessPCH
+x/var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch.gch
+xCAConversionFramework_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile CAConversionFramework_Prefix.pch275542541#275542544#0(0"0(0#0#111"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionFramework_Prefix.pch4300882208#2037"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-generated-files.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-own-target-headers.hmap -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-all-target-headers.hmap -iquote /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/CAConversionFramework-project-headers.hmap -F/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/include -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources/x86_64 -I/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/CAConversionFramework.build/Debug/CAConversionFramework.build/DerivedSources -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionFramework_Prefix.pch -o /var/folders/Zo/ZojNUEz2FWuAN-CEohMCjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CAConversionFramework_Prefix-fjpwhhnrlsqgloapytyljkzlhhpi/CAConversionFramework_Prefix.pch.gch0#
+
+CSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework Versions/Current/CAConversionFramework
+s275542329.816770
+e275542329.820330
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework
+xVersions/Current/CAConversionFramework
+lSLF07#2@152"Process /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework275542329#275542329#0(0"0(0#0#0"4300882208#286"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /bin/ln -sf Versions/Current/CAConversionFramework /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework0#
+
+CSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers Versions/Current/Headers
+s275542329.815657
+e275542329.819326
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers
+xVersions/Current/Headers
+lSLF07#2@138"Process /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers275542329#275542329#0(0"0(0#0#0"4300882208#258"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /bin/ln -sf Versions/Current/Headers /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Headers0#
+
+CSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources Versions/Current/Resources
+s275542329.796968
+e275542329.816695
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@140"Process /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources275542329#275542329#0(0"0(0#0#0"4300882208#262"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /bin/ln -sf Versions/Current/Resources /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources0#
+
+CSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current A
+s275542329.747581
+e275542329.815547
+r1
+xSymLink
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current
+xA
+lSLF07#2@147"Process /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current275542329#275542329#0(0"0(0#0#0"31244233522610284#244"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /bin/ln -sf A /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current0#
+
+CTouch /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework
+s275542545.769153
+e275542545.771211
+r1
+xTouch
+x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework
+lSLF07#2@128"Touch /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework275542545#275542545#0(0"0(0#0#0"4300882208#231"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /usr/bin/touch -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework0#
+

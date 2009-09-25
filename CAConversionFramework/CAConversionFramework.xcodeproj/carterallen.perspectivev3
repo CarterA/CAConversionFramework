@@ -289,10 +289,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>4A242B98106B042300B33C73</string>
+						<string>4A428670106C732700FBCC3E</string>
 						<key>history</key>
 						<array>
-							<string>4A242AD41069B78B00B33C73</string>
+							<string>4A242B98106B042300B33C73</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -389,13 +389,14 @@
 								<string>1058C7B0FEA5585E11CA2CBB</string>
 								<string>034768DFFF38A50411DB9C8B</string>
 								<string>1C37FBAC04509CD000000102</string>
-								<string>4A2425411066AD3A00B33C73</string>
+								<string>4A42862A106C70E300FBCC3E</string>
+								<string>4A428666106C721400FBCC3E</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>9</integer>
-									<integer>1</integer>
+									<integer>13</integer>
+									<integer>12</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -435,7 +436,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>4A24241510655BA400B33C73</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CAConversionSource.m</string>
+								<string>CAConversionFramework_Prefix.pch</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -443,30 +444,25 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>4A24241610655BA400B33C73</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>CAConversionSource.m</string>
+										<string>CAConversionFramework_Prefix.pch</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>4A242B97106B042300B33C73</string>
+										<string>4A42866F106C732700FBCC3E</string>
 										<key>history</key>
 										<array>
-											<string>4A2426931066D0CF00B33C73</string>
-											<string>4A2426A51066D0FA00B33C73</string>
-											<string>4A2427FF10686F6700B33C73</string>
-											<string>4A24291410687F2B00B33C73</string>
 											<string>4A24298D1068917000B33C73</string>
-											<string>4A2429D31068952000B33C73</string>
-											<string>4A2429F2106895C400B33C73</string>
 											<string>4A242A9310697F7400B33C73</string>
 											<string>4A242A9410697F7400B33C73</string>
 											<string>4A242A9710697F7400B33C73</string>
 											<string>4A242A9810697F7400B33C73</string>
 											<string>4A242AB11069B59A00B33C73</string>
-											<string>4A242ACF1069B78B00B33C73</string>
 											<string>4A242AD01069B78B00B33C73</string>
 											<string>4A242B661069C89700B33C73</string>
-											<string>4A242B671069C89700B33C73</string>
-											<string>4A242B8F106A5F7300B33C73</string>
+											<string>4A428646106C713D00FBCC3E</string>
+											<string>4A42864A106C715600FBCC3E</string>
+											<string>4A428667106C721400FBCC3E</string>
+											<string>4A428668106C721400FBCC3E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -480,18 +476,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {800, 508}}</string>
+								<string>{{0, 0}, {800, 503}}</string>
 								<key>RubberWindowFrame</key>
 								<string>1 147 1058 731 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>508pt</string>
+							<string>503pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>177pt</string>
+							<string>182pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -505,7 +501,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {910, 150}}</string>
+										<string>{{10, 27}, {800, 155}}</string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -559,7 +555,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {800, 150}}</string>
+										<string>{{10, 27}, {800, 155}}</string>
 										<key>RubberWindowFrame</key>
 										<string>1 147 1058 731 0 0 1440 878 </string>
 									</dict>
@@ -589,11 +585,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>4A24241910655BA400B33C73</string>
+				<string>4A42864D106C715600FBCC3E</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>4A24241A10655BA400B33C73</string>
+				<string>4A42864E106C715600FBCC3E</string>
 				<string>4A24241510655BA400B33C73</string>
-				<string>4A24241B10655BA400B33C73</string>
+				<string>4A42864F106C715600FBCC3E</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -765,7 +761,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>275448867.47214198</real>
+	<real>275542823.14278001</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -783,7 +779,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>4A2429941068917000B33C73</string>
-		<string>/Users/carterallen/Development/Mac/Vidiot/CAConversionFramework/CAConversionFramework.xcodeproj</string>
+		<string>/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionFramework.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>1 147 1058 731 0 0 1440 878 </string>
