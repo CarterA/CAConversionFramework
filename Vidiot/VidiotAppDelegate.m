@@ -18,7 +18,8 @@
 	NSURL *sourceFile = [[NSURL alloc] initFileURLWithPath:@"/Users/carterallen/Movies/Personal/CIMG2273.mp4" isDirectory:NO];
 	CAConversion *conversion = [[CAConversion alloc] initWithSourceFile:sourceFile];
 	[center addConversion:conversion];
-	//NSLog(@"%@", [[[conversion conversionInfo] source] duration]);
+	NSLog(@"%@", [[[conversion conversionInfo] source] duration]);
+	[conversion test];
 }
 
 @end

@@ -14,5 +14,6 @@
 }
 - (void)kill;
 - (id)initWithSourceFile:(NSURL *)fileURL;
+- (void)test;
 @property (readonly, retain) CAConversionInfo *conversionInfo;
 @end

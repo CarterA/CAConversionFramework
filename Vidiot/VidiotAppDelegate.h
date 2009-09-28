@@ -7,7 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import <CAConversionFramework/Import.h>
+#import <CAConversionFramework/CAConversionFramework.h>
 
 @interface VidiotAppDelegate : NSObject <NSApplicationDelegate> {
     NSWindow *window;
