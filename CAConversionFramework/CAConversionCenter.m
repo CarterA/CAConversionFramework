@@ -33,39 +33,17 @@ static CAConversionCenter *sharedCenter;
     avdevice_register_all();
     av_register_all();
 	
-#if HAVE_ISATTY
-    if(isatty(STDIN_FILENO))
-        url_set_interrupt_cb(decode_interrupt_cb);
-#endif
-	
    /* for(i=0; i<CODEC_TYPE_NB; i++){
         avcodec_opts[i]= avcodec_alloc_context2(i);
     }
     avformat_opts = avformat_alloc_context();
     sws_opts = sws_getContext(16,16,0, 16,16,0, sws_flags, NULL,NULL,NULL);
-	
-    show_banner();
-	
-    parse_options(argc, argv, options, opt_output_file);
-	
-    if (nb_output_files <= 0) {
-        fprintf(stderr, "At least one output file must be specified\n");
-        av_exit(1);
-    }
-	
-    if (nb_input_files == 0) {
-        fprintf(stderr, "At least one input file must be specified\n");
-        av_exit(1);
-    }
-	
+		
     ti = getutime();
     if (av_encode(output_files, nb_output_files, input_files, nb_input_files,
                   stream_maps, nb_stream_maps) < 0)
         av_exit(1);
-    ti = getutime() - ti;
-    if (do_benchmark) {
-        printf("bench: utime=%0.3fs\n", ti / 1000000.0);
-    }*/
+    ti = getutime() - ti;*/
 }
 #pragma mark -
 #pragma mark Properties
@@ -76,13 +54,13 @@ static CAConversionCenter *sharedCenter;
 	[conversions addObject:conversion];
 }
 - (void)removeConversion:(CAConversion *)conversion withCancelationBehavior:(CAConversionCancelationBehavior)behavior {
-	if (conversion && [[conversion conversionInfo] running]) {
+	if (conversion && [conversion running]) {
 		switch (behavior) {
 			case CAConversionCancelationRemoveAndContinueBehavior:
 				if ([conversions containsObject:conversion]) [conversions removeObject:conversion];
 				break;
 			case CAConversionCancelationRemoveAndKillBehavior:
-				[conversion kill];
+				[conversion stop];
 				if ([conversions containsObject:conversion]) [conversions removeObject:conversion];
 				break;
 			default:

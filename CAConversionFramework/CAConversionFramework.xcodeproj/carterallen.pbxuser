@@ -15,7 +15,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					561,
+					485,
 					20,
 					48,
 					43,
@@ -682,6 +682,69 @@
 			4A42885A1070773600FBCC3E /* PBXTextBookmark */ = 4A42885A1070773600FBCC3E /* PBXTextBookmark */;
 			4A42885B1070773600FBCC3E /* PBXTextBookmark */ = 4A42885B1070773600FBCC3E /* PBXTextBookmark */;
 			4A42885C1070773600FBCC3E /* PBXTextBookmark */ = 4A42885C1070773600FBCC3E /* PBXTextBookmark */;
+			4A42886C1070858A00FBCC3E /* PBXTextBookmark */ = 4A42886C1070858A00FBCC3E /* PBXTextBookmark */;
+			4A42886E1070858A00FBCC3E /* PBXTextBookmark */ = 4A42886E1070858A00FBCC3E /* PBXTextBookmark */;
+			4A42886F1070858A00FBCC3E /* PBXTextBookmark */ = 4A42886F1070858A00FBCC3E /* PBXTextBookmark */;
+			4A4288701070858A00FBCC3E /* PBXTextBookmark */ = 4A4288701070858A00FBCC3E /* PBXTextBookmark */;
+			4A428881107086BA00FBCC3E /* PBXTextBookmark */ = 4A428881107086BA00FBCC3E /* PBXTextBookmark */;
+			4A428882107086BA00FBCC3E /* PBXTextBookmark */ = 4A428882107086BA00FBCC3E /* PBXTextBookmark */;
+			4A428883107086BA00FBCC3E /* PBXTextBookmark */ = 4A428883107086BA00FBCC3E /* PBXTextBookmark */;
+			4A428884107086BA00FBCC3E /* PBXTextBookmark */ = 4A428884107086BA00FBCC3E /* PBXTextBookmark */;
+			4A428885107086BA00FBCC3E /* PBXTextBookmark */ = 4A428885107086BA00FBCC3E /* PBXTextBookmark */;
+			4A428886107086BA00FBCC3E /* PBXTextBookmark */ = 4A428886107086BA00FBCC3E /* PBXTextBookmark */;
+			4A428887107086BA00FBCC3E /* PBXTextBookmark */ = 4A428887107086BA00FBCC3E /* PBXTextBookmark */;
+			4A428888107086C900FBCC3E /* PBXTextBookmark */ = 4A428888107086C900FBCC3E /* PBXTextBookmark */;
+			4A428889107086C900FBCC3E /* PBXTextBookmark */ = 4A428889107086C900FBCC3E /* PBXTextBookmark */;
+			4A42888C107086EA00FBCC3E /* PBXTextBookmark */ = 4A42888C107086EA00FBCC3E /* PBXTextBookmark */;
+			4A42888D107086EA00FBCC3E /* PBXTextBookmark */ = 4A42888D107086EA00FBCC3E /* PBXTextBookmark */;
+			4A42888E107086EA00FBCC3E /* PBXTextBookmark */ = 4A42888E107086EA00FBCC3E /* PBXTextBookmark */;
+			4A42888F107086EA00FBCC3E /* PBXTextBookmark */ = 4A42888F107086EA00FBCC3E /* PBXTextBookmark */;
+			4A42889A107087BE00FBCC3E /* PBXTextBookmark */ = 4A42889A107087BE00FBCC3E /* PBXTextBookmark */;
+			4A42889B107087BE00FBCC3E /* PBXTextBookmark */ = 4A42889B107087BE00FBCC3E /* PBXTextBookmark */;
+			4A42889C107087BE00FBCC3E /* PBXTextBookmark */ = 4A42889C107087BE00FBCC3E /* PBXTextBookmark */;
+			4A42889D107087BE00FBCC3E /* PBXTextBookmark */ = 4A42889D107087BE00FBCC3E /* PBXTextBookmark */;
+			4A42889E107087BE00FBCC3E /* PBXTextBookmark */ = 4A42889E107087BE00FBCC3E /* PBXTextBookmark */;
+			4A42889F107087BE00FBCC3E /* PBXTextBookmark */ = 4A42889F107087BE00FBCC3E /* PBXTextBookmark */;
+			4A4288A0107087BE00FBCC3E /* PBXTextBookmark */ = 4A4288A0107087BE00FBCC3E /* PBXTextBookmark */;
+			4A4288A1107087BE00FBCC3E /* PBXTextBookmark */ = 4A4288A1107087BE00FBCC3E /* PBXTextBookmark */;
+			4A4288A6107089B800FBCC3E /* PBXTextBookmark */ = 4A4288A6107089B800FBCC3E /* PBXTextBookmark */;
+			4A4288A7107089B800FBCC3E /* PBXTextBookmark */ = 4A4288A7107089B800FBCC3E /* PBXTextBookmark */;
+			4A4288A8107089B800FBCC3E /* PBXTextBookmark */ = 4A4288A8107089B800FBCC3E /* PBXTextBookmark */;
+			4A4288A9107089B800FBCC3E /* PBXTextBookmark */ = 4A4288A9107089B800FBCC3E /* PBXTextBookmark */;
+			4A4288AA107089B800FBCC3E /* PBXTextBookmark */ = 4A4288AA107089B800FBCC3E /* PBXTextBookmark */;
+			4A4288AB107089B800FBCC3E /* PBXTextBookmark */ = 4A4288AB107089B800FBCC3E /* PBXTextBookmark */;
+			4A4288AC1070F33500FBCC3E /* PBXTextBookmark */ = 4A4288AC1070F33500FBCC3E /* PBXTextBookmark */;
+			4A4288AD1070F33500FBCC3E /* PBXTextBookmark */ = 4A4288AD1070F33500FBCC3E /* PBXTextBookmark */;
+			4A4288AE1070F33500FBCC3E /* PBXTextBookmark */ = 4A4288AE1070F33500FBCC3E /* PBXTextBookmark */;
+			4A4288AF1070F33500FBCC3E /* PBXTextBookmark */ = 4A4288AF1070F33500FBCC3E /* PBXTextBookmark */;
+			4A4288B01070F33500FBCC3E /* PBXTextBookmark */ = 4A4288B01070F33500FBCC3E /* PBXTextBookmark */;
+			4A4288B11070F33500FBCC3E /* PBXTextBookmark */ = 4A4288B11070F33500FBCC3E /* PBXTextBookmark */;
+			4A4288B21070F37700FBCC3E /* PBXTextBookmark */ = 4A4288B21070F37700FBCC3E /* PBXTextBookmark */;
+			4A4288B31070F37700FBCC3E /* PBXTextBookmark */ = 4A4288B31070F37700FBCC3E /* PBXTextBookmark */;
+			4A4288B41070F37700FBCC3E /* PBXTextBookmark */ = 4A4288B41070F37700FBCC3E /* PBXTextBookmark */;
+			4A4288B51070F37700FBCC3E /* PBXTextBookmark */ = 4A4288B51070F37700FBCC3E /* PBXTextBookmark */;
+			4A4288B61070F37700FBCC3E /* PBXTextBookmark */ = 4A4288B61070F37700FBCC3E /* PBXTextBookmark */;
+			4A4288D41070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288D41070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288D51070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288D51070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288D61070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288D61070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288D71070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288D71070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288D81070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288D81070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288D91070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288D91070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288DA1070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288DA1070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288DB1070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288DB1070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288E21070F4AF00FBCC3E /* PBXTextBookmark */ = 4A4288E21070F4AF00FBCC3E /* PBXTextBookmark */;
+			4A4288E31070F4AF00FBCC3E /* PBXTextBookmark */ = 4A4288E31070F4AF00FBCC3E /* PBXTextBookmark */;
+			4A4288E41070F4AF00FBCC3E /* PBXTextBookmark */ = 4A4288E41070F4AF00FBCC3E /* PBXTextBookmark */;
+			4A4288E51070F4AF00FBCC3E /* PBXTextBookmark */ = 4A4288E51070F4AF00FBCC3E /* PBXTextBookmark */;
+			4A4288F21070F52000FBCC3E /* PBXTextBookmark */ = 4A4288F21070F52000FBCC3E /* PBXTextBookmark */;
+			4A4288F31070F52000FBCC3E /* PBXTextBookmark */ = 4A4288F31070F52000FBCC3E /* PBXTextBookmark */;
+			4A4288F41070F52000FBCC3E /* PBXTextBookmark */ = 4A4288F41070F52000FBCC3E /* PBXTextBookmark */;
+			4A4288F51070F52000FBCC3E /* XCBuildMessageTextBookmark */ = 4A4288F51070F52000FBCC3E /* XCBuildMessageTextBookmark */;
+			4A4288F61070F52000FBCC3E /* PBXTextBookmark */ = 4A4288F61070F52000FBCC3E /* PBXTextBookmark */;
+			4A4288FB1070F5C900FBCC3E /* PBXTextBookmark */ = 4A4288FB1070F5C900FBCC3E /* PBXTextBookmark */;
+			4A4288FC1070F5C900FBCC3E /* PBXTextBookmark */ = 4A4288FC1070F5C900FBCC3E /* PBXTextBookmark */;
+			4A4288FD1070F5C900FBCC3E /* PBXTextBookmark */ = 4A4288FD1070F5C900FBCC3E /* PBXTextBookmark */;
+			4A4288FE1070F5C900FBCC3E /* PBXTextBookmark */ = 4A4288FE1070F5C900FBCC3E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 4A2423E5106559B000B33C73 /* Source Control */;
 		userBuildSettings = {
@@ -689,9 +752,9 @@
 	};
 	32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {739, 428}}";
-			sepNavSelRange = "{177, 0}";
-			sepNavVisRange = "{0, 291}";
+			sepNavIntBoundsRect = "{{0, 0}, {702, 461}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 322}";
 		};
 	};
 	4A2423E5106559B000B33C73 /* Source Control */ = {
@@ -710,16 +773,16 @@
 	};
 	4A2423EE10655A3000B33C73 /* CAConversion.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {739, 371}}";
-			sepNavSelRange = "{339, 0}";
-			sepNavVisRange = "{0, 407}";
+			sepNavIntBoundsRect = "{{0, 0}, {663, 461}}";
+			sepNavSelRange = "{346, 0}";
+			sepNavVisRange = "{0, 522}";
 		};
 	};
 	4A2423EF10655A3000B33C73 /* CAConversion.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {948, 602}}";
-			sepNavSelRange = "{797, 0}";
-			sepNavVisRange = "{197, 1162}";
+			sepNavIntBoundsRect = "{{0, 0}, {852, 644}}";
+			sepNavSelRange = "{501, 0}";
+			sepNavVisRange = "{167, 1049}";
 		};
 	};
 	4A2423F010655A3000B33C73 /* CAConversionCenter.h */ = {
@@ -731,10 +794,10 @@
 	};
 	4A2423F110655A3000B33C73 /* CAConversionCenter.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{308, 100}\";\n            s = 0;\n        },\n                {\n            r = \"{440, 116}\";\n            s = 0;\n        },\n                {\n            r = \"{1812, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{1971, 534}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2512}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {739, 1022}}";
-			sepNavSelRange = "{451, 0}";
-			sepNavVisRange = "{220, 660}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{308, 100}\";\n            s = 0;\n        },\n                {\n            r = \"{440, 116}\";\n            s = 0;\n        },\n                {\n            r = \"{1277, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{1436, 517}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1960}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {751, 630}}";
+			sepNavSelRange = "{618, 0}";
+			sepNavVisRange = "{255, 938}";
 		};
 	};
 	4A24241710655BA400B33C73 /* PBXTextBookmark */ = {
@@ -772,7 +835,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 13";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 303;
 		vrLoc = 0;
@@ -782,7 +845,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 340;
+		rLoc = 461;
 		rType = 0;
 		vrLen = 373;
 		vrLoc = 0;
@@ -792,16 +855,16 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 340;
+		rLoc = 461;
 		rType = 0;
 		vrLen = 373;
 		vrLoc = 0;
 	};
 	4A24244510655EEA00B33C73 /* CAConversionFramework.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {739, 428}}";
-			sepNavSelRange = "{28, 0}";
-			sepNavVisRange = "{0, 244}";
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
+			sepNavSelRange = "{1037, 0}";
+			sepNavVisRange = "{0, 1037}";
 		};
 	};
 	4A24245E10655F7100B33C73 /* PBXTextBookmark */ = {
@@ -809,7 +872,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 12";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 0;
@@ -829,7 +892,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 11";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -839,7 +902,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 340;
+		rLoc = 461;
 		rType = 0;
 		vrLen = 359;
 		vrLoc = 0;
@@ -869,7 +932,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 0;
@@ -889,7 +952,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 34";
 		rLen = 0;
-		rLoc = 1814;
+		rLoc = 1279;
 		rType = 0;
 		vrLen = 732;
 		vrLoc = 0;
@@ -899,7 +962,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 34";
 		rLen = 0;
-		rLoc = 1849;
+		rLoc = 1314;
 		rType = 0;
 		vrLen = 767;
 		vrLoc = 0;
@@ -909,7 +972,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 34";
 		rLen = 0;
-		rLoc = 1849;
+		rLoc = 1314;
 		rType = 0;
 		vrLen = 767;
 		vrLoc = 0;
@@ -969,7 +1032,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 37";
 		rLen = 0;
-		rLoc = 2504;
+		rLoc = 1952;
 		rType = 0;
 		vrLen = 891;
 		vrLoc = 0;
@@ -979,7 +1042,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 0;
@@ -989,7 +1052,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 0;
@@ -999,7 +1062,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 0;
@@ -1009,7 +1072,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 340;
+		rLoc = 461;
 		rType = 0;
 		vrLen = 359;
 		vrLoc = 0;
@@ -1019,7 +1082,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 19";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1029,7 +1092,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 19";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1039,7 +1102,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 0;
@@ -1049,7 +1112,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 445;
+		rLoc = 425;
 		rType = 0;
 		vrLen = 278;
 		vrLoc = 0;
@@ -1059,7 +1122,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 277;
 		vrLoc = 0;
@@ -1069,7 +1132,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 37";
 		rLen = 0;
-		rLoc = 2504;
+		rLoc = 1952;
 		rType = 0;
 		vrLen = 891;
 		vrLoc = 0;
@@ -1079,7 +1142,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 38";
 		rLen = 8;
-		rLoc = 2042;
+		rLoc = 1490;
 		rType = 0;
 		vrLen = 998;
 		vrLoc = 39;
@@ -1089,7 +1152,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 39";
 		rLen = 0;
-		rLoc = 2110;
+		rLoc = 1558;
 		rType = 0;
 		vrLen = 1069;
 		vrLoc = 82;
@@ -1099,7 +1162,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 40";
 		rLen = 0;
-		rLoc = 2199;
+		rLoc = 1647;
 		rType = 0;
 		vrLen = 1138;
 		vrLoc = 82;
@@ -1109,7 +1172,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 18";
 		rLen = 13;
-		rLoc = 269;
+		rLoc = 347;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1119,7 +1182,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 20";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 342;
 		vrLoc = 0;
@@ -1129,7 +1192,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 43";
 		rLen = 106;
-		rLoc = 2269;
+		rLoc = 1717;
 		rType = 0;
 		vrLen = 1136;
 		vrLoc = 82;
@@ -1139,7 +1202,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 44";
 		rLen = 0;
-		rLoc = 2375;
+		rLoc = 1823;
 		rType = 0;
 		vrLen = 1170;
 		vrLoc = 147;
@@ -1149,7 +1212,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 51";
 		rLen = 0;
-		rLoc = 2505;
+		rLoc = 1953;
 		rType = 0;
 		vrLen = 1405;
 		vrLoc = 0;
@@ -1159,7 +1222,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 20";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 342;
 		vrLoc = 0;
@@ -1169,7 +1232,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 51";
 		rLen = 0;
-		rLoc = 2505;
+		rLoc = 1953;
 		rType = 0;
 		vrLen = 1405;
 		vrLoc = 0;
@@ -1179,7 +1242,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 22";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1189,7 +1252,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 22";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1199,7 +1262,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 20";
 		rLen = 0;
-		rLoc = 1354;
+		rLoc = 1218;
 		rType = 0;
 		vrLen = 342;
 		vrLoc = 0;
@@ -1209,7 +1272,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 21";
 		rLen = 0;
-		rLoc = 1355;
+		rLoc = 1219;
 		rType = 0;
 		vrLen = 347;
 		vrLoc = 0;
@@ -1219,7 +1282,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 20";
 		rLen = 0;
-		rLoc = 698;
+		rLoc = 562;
 		rType = 0;
 		vrLen = 502;
 		vrLoc = 0;
@@ -1229,7 +1292,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 23";
 		rLen = 0;
-		rLoc = 1355;
+		rLoc = 1219;
 		rType = 0;
 		vrLen = 502;
 		vrLoc = 0;
@@ -1239,21 +1302,33 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 20";
 		rLen = 0;
-		rLoc = 587;
+		rLoc = 542;
 		rType = 0;
 		vrLen = 498;
 		vrLoc = 0;
 	};
 	4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = CAConversionInfo.h;
+		path = /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.h;
+		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {739, 471}}";
-			sepNavSelRange = "{488, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
+			sepNavSelRange = "{394, 42}";
 			sepNavVisRange = "{0, 488}";
 		};
 	};
 	4A2424BC10656AAB00B33C73 /* CAConversionInfo.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CAConversionInfo.m;
+		path = /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionInfo.m;
+		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {739, 346}}";
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
 			sepNavSelRange = "{351, 0}";
 			sepNavVisRange = "{0, 423}";
 		};
@@ -1263,7 +1338,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 51";
 		rLen = 0;
-		rLoc = 2505;
+		rLoc = 1953;
 		rType = 0;
 		vrLen = 1405;
 		vrLoc = 0;
@@ -1273,7 +1348,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 23";
 		rLen = 0;
-		rLoc = 1359;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 498;
 		vrLoc = 0;
@@ -1293,7 +1368,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 10";
 		rLen = 0;
-		rLoc = 193;
+		rLoc = 247;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1363,7 +1438,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 18";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 375;
 		vrLoc = 0;
@@ -1373,7 +1448,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 20";
 		rLen = 0;
-		rLoc = 694;
+		rLoc = 542;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 0;
@@ -1433,7 +1508,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 19";
 		rLen = 0;
-		rLoc = 537;
+		rLoc = 529;
 		rType = 0;
 		vrLen = 527;
 		vrLoc = 0;
@@ -1453,7 +1528,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 37";
 		rLen = 0;
-		rLoc = 2029;
+		rLoc = 1477;
 		rType = 0;
 		vrLen = 1281;
 		vrLoc = 143;
@@ -1473,7 +1548,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 28";
 		rLen = 0;
-		rLoc = 1662;
+		rLoc = 1127;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 0;
@@ -1483,7 +1558,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 19";
 		rLen = 0;
-		rLoc = 547;
+		rLoc = 539;
 		rType = 0;
 		vrLen = 527;
 		vrLoc = 0;
@@ -1503,7 +1578,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 18";
 		rLen = 0;
-		rLoc = 402;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 375;
 		vrLoc = 0;
@@ -1543,7 +1618,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 19";
 		rLen = 0;
-		rLoc = 547;
+		rLoc = 539;
 		rType = 0;
 		vrLen = 527;
 		vrLoc = 0;
@@ -1553,7 +1628,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 18";
 		rLen = 0;
-		rLoc = 339;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1563,7 +1638,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 18";
 		rLen = 42;
-		rLoc = 283;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1573,7 +1648,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 377;
+		rLoc = 365;
 		rType = 0;
 		vrLen = 628;
 		vrLoc = 0;
@@ -1623,7 +1698,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 28";
 		rLen = 0;
-		rLoc = 1662;
+		rLoc = 1127;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 0;
@@ -1633,7 +1708,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 28";
 		rLen = 0;
-		rLoc = 1662;
+		rLoc = 1127;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 0;
@@ -1643,7 +1718,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 28";
 		rLen = 0;
-		rLoc = 1662;
+		rLoc = 1127;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 0;
@@ -1653,7 +1728,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 377;
+		rLoc = 365;
 		rType = 0;
 		vrLen = 678;
 		vrLoc = 0;
@@ -1679,7 +1754,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 377;
+		rLoc = 365;
 		rType = 0;
 		vrLen = 678;
 		vrLoc = 0;
@@ -1709,7 +1784,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 18";
 		rLen = 42;
-		rLoc = 283;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1777,7 +1852,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 377;
+		rLoc = 365;
 		rType = 0;
 		vrLen = 678;
 		vrLoc = 0;
@@ -1787,7 +1862,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 28";
 		rLen = 0;
-		rLoc = 1662;
+		rLoc = 1127;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 0;
@@ -1827,7 +1902,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 18";
 		rLen = 42;
-		rLoc = 283;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1837,7 +1912,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 10";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1865,7 +1940,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 18";
 		rLen = 0;
-		rLoc = 378;
+		rLoc = 366;
 		rType = 0;
 		vrLen = 700;
 		vrLoc = 0;
@@ -1875,7 +1950,7 @@
 		comments = "'libmediainfo.a' file not found";
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		rLen = 1;
-		rLoc = 8;
+		rLoc = 9;
 		rType = 1;
 	};
 	4A2425461066AD3A00B33C73 /* PBXTextBookmark */ = {
@@ -1883,7 +1958,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 10";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1893,7 +1968,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 10";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1913,7 +1988,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 18";
 		rLen = 0;
-		rLoc = 378;
+		rLoc = 366;
 		rType = 0;
 		vrLen = 700;
 		vrLoc = 0;
@@ -1923,7 +1998,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 18";
 		rLen = 0;
-		rLoc = 378;
+		rLoc = 366;
 		rType = 0;
 		vrLen = 700;
 		vrLoc = 0;
@@ -1933,7 +2008,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -1973,7 +2048,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 19";
 		rLen = 0;
-		rLoc = 324;
+		rLoc = 402;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1983,7 +2058,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 19";
 		rLen = 0;
-		rLoc = 324;
+		rLoc = 402;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -1993,7 +2068,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 19";
 		rLen = 0;
-		rLoc = 324;
+		rLoc = 402;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -2003,7 +2078,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 522;
 		vrLoc = 0;
@@ -2013,7 +2088,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2023,7 +2098,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 522;
 		vrLoc = 0;
@@ -2033,7 +2108,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2043,7 +2118,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2053,7 +2128,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 19";
 		rLen = 0;
-		rLoc = 339;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -2063,7 +2138,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2103,7 +2178,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -2153,7 +2228,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2223,7 +2298,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2343,7 +2418,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -2353,7 +2428,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2363,7 +2438,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2423,7 +2498,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -2433,7 +2508,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2443,7 +2518,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2453,7 +2528,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2463,7 +2538,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2473,16 +2548,16 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
 	};
 	4A2426741066D00000B33C73 /* avutil.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {739, 896}}";
-			sepNavSelRange = "{1931, 0}";
-			sepNavVisRange = "{938, 1150}";
+			sepNavIntBoundsRect = "{{0, 0}, {663, 896}}";
+			sepNavSelRange = "{1890, 0}";
+			sepNavVisRange = "{985, 1103}";
 		};
 	};
 	4A2426761066D01300B33C73 /* avformat.h */ = {
@@ -2525,7 +2600,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2545,7 +2620,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 9";
 		rLen = 0;
-		rLoc = 283;
+		rLoc = 315;
 		rType = 0;
 		vrLen = 237;
 		vrLoc = 0;
@@ -2678,7 +2753,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 9";
 		rLen = 0;
-		rLoc = 283;
+		rLoc = 315;
 		rType = 0;
 		vrLen = 237;
 		vrLoc = 0;
@@ -2688,7 +2763,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2698,7 +2773,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -2778,7 +2853,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 28";
 		rLen = 0;
-		rLoc = 1662;
+		rLoc = 1127;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 0;
@@ -2788,7 +2863,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -2798,7 +2873,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 15";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 662;
 		vrLoc = 0;
@@ -2808,7 +2883,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2818,7 +2893,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 37";
 		rLen = 0;
-		rLoc = 2021;
+		rLoc = 1469;
 		rType = 0;
 		vrLen = 1297;
 		vrLoc = 0;
@@ -2828,7 +2903,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 25";
 		rLen = 0;
-		rLoc = 537;
+		rLoc = 529;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2878,7 +2953,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 25";
 		rLen = 0;
-		rLoc = 537;
+		rLoc = 529;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2888,7 +2963,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2898,7 +2973,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2908,7 +2983,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2948,7 +3023,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -2958,7 +3033,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2968,7 +3043,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 362;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2978,7 +3053,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2988,7 +3063,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -2998,7 +3073,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 195;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -3008,7 +3083,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 367;
+		rLoc = 488;
 		rType = 0;
 		vrLen = 391;
 		vrLoc = 0;
@@ -3018,7 +3093,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 367;
+		rLoc = 488;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -3028,7 +3103,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 301;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3038,7 +3113,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 362;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3048,7 +3123,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 362;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3058,7 +3133,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 362;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3068,7 +3143,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 362;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3078,7 +3153,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 362;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3088,7 +3163,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3158,7 +3233,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 37";
 		rLen = 0;
-		rLoc = 2021;
+		rLoc = 1469;
 		rType = 0;
 		vrLen = 1297;
 		vrLoc = 0;
@@ -3168,7 +3243,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 37";
 		rLen = 0;
-		rLoc = 2021;
+		rLoc = 1469;
 		rType = 0;
 		vrLen = 1297;
 		vrLoc = 0;
@@ -3178,7 +3253,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 51";
 		rLen = 0;
-		rLoc = 2505;
+		rLoc = 1953;
 		rType = 0;
 		vrLen = 1422;
 		vrLoc = 0;
@@ -3198,7 +3273,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3208,7 +3283,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3218,7 +3293,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3228,7 +3303,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3238,7 +3313,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3248,7 +3323,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3268,7 +3343,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 367;
+		rLoc = 488;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -3278,7 +3353,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 367;
+		rLoc = 488;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -3308,7 +3383,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 367;
+		rLoc = 488;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -3326,7 +3401,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 18";
 		rLen = 0;
-		rLoc = 377;
+		rLoc = 365;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3336,7 +3411,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 21";
 		rLen = 0;
-		rLoc = 411;
+		rLoc = 399;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3386,7 +3461,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 21";
 		rLen = 0;
-		rLoc = 411;
+		rLoc = 399;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3426,7 +3501,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 51";
 		rLen = 0;
-		rLoc = 2505;
+		rLoc = 1953;
 		rType = 0;
 		vrLen = 1422;
 		vrLoc = 0;
@@ -3436,7 +3511,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 29";
 		rLen = 0;
-		rLoc = 1645;
+		rLoc = 1110;
 		rType = 0;
 		vrLen = 1447;
 		vrLoc = 0;
@@ -3476,7 +3551,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3606,7 +3681,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3616,7 +3691,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3626,7 +3701,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3636,7 +3711,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -3646,7 +3721,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -4141,7 +4216,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 367;
+		rLoc = 488;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -4211,7 +4286,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 12";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -4231,7 +4306,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 11";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -4251,7 +4326,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 11";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -4321,7 +4396,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 17";
 		rLen = 0;
-		rLoc = 363;
+		rLoc = 351;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -4438,16 +4513,16 @@
 	};
 	4A242A1710690BCF00B33C73 /* CAConversionSource.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {739, 434}}";
-			sepNavSelRange = "{661, 0}";
-			sepNavVisRange = "{0, 866}";
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
+			sepNavSelRange = "{1036, 0}";
+			sepNavVisRange = "{0, 1145}";
 		};
 	};
 	4A242A1810690BCF00B33C73 /* CAConversionSource.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {852, 2212}}";
-			sepNavSelRange = "{1147, 45}";
-			sepNavVisRange = "{0, 678}";
+			sepNavIntBoundsRect = "{{0, 0}, {852, 1946}}";
+			sepNavSelRange = "{3095, 0}";
+			sepNavVisRange = "{2396, 1794}";
 		};
 	};
 	4A242A9310697F7400B33C73 /* PBXTextBookmark */ = {
@@ -4455,7 +4530,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 367;
+		rLoc = 488;
 		rType = 0;
 		vrLen = 393;
 		vrLoc = 0;
@@ -4485,7 +4560,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 9";
 		rLen = 0;
-		rLoc = 283;
+		rLoc = 315;
 		rType = 0;
 		vrLen = 237;
 		vrLoc = 0;
@@ -4495,7 +4570,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 353;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -4515,7 +4590,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 22";
 		rLen = 0;
-		rLoc = 515;
+		rLoc = 577;
 		rType = 0;
 		vrLen = 844;
 		vrLoc = 0;
@@ -4525,7 +4600,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 33";
 		rLen = 0;
-		rLoc = 1103;
+		rLoc = 1131;
 		rType = 0;
 		vrLen = 1577;
 		vrLoc = 572;
@@ -4635,7 +4710,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 33";
 		rLen = 0;
-		rLoc = 1103;
+		rLoc = 1131;
 		rType = 0;
 		vrLen = 1473;
 		vrLoc = 572;
@@ -4645,7 +4720,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 60";
 		rLen = 0;
-		rLoc = 3443;
+		rLoc = 3095;
 		rType = 0;
 		vrLen = 1165;
 		vrLoc = 1046;
@@ -4665,7 +4740,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 283;
+		rLoc = 315;
 		rType = 0;
 		vrLen = 269;
 		vrLoc = 0;
@@ -4685,7 +4760,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 22";
 		rLen = 0;
-		rLoc = 515;
+		rLoc = 577;
 		rType = 0;
 		vrLen = 844;
 		vrLoc = 0;
@@ -4695,7 +4770,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 73";
 		rLen = 0;
-		rLoc = 2838;
+		rLoc = 2866;
 		rType = 0;
 		vrLen = 1147;
 		vrLoc = 1690;
@@ -4705,7 +4780,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 64";
 		rLen = 0;
-		rLoc = 2280;
+		rLoc = 2308;
 		rType = 0;
 		vrLen = 1167;
 		vrLoc = 1725;
@@ -4735,7 +4810,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 65";
 		rLen = 0;
-		rLoc = 2319;
+		rLoc = 2347;
 		rType = 0;
 		vrLen = 1270;
 		vrLoc = 1725;
@@ -4755,7 +4830,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 65";
 		rLen = 0;
-		rLoc = 2319;
+		rLoc = 2347;
 		rType = 0;
 		vrLen = 1258;
 		vrLoc = 1725;
@@ -4783,7 +4858,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 75";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1408;
 		vrLoc = 1690;
@@ -4811,7 +4886,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 75";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1408;
 		vrLoc = 1690;
@@ -4831,7 +4906,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 64";
 		rLen = 0;
-		rLoc = 2254;
+		rLoc = 2282;
 		rType = 0;
 		vrLen = 1242;
 		vrLoc = 1850;
@@ -4859,7 +4934,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 75";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1242;
 		vrLoc = 1850;
@@ -4879,7 +4954,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 75";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1242;
 		vrLoc = 1850;
@@ -4899,7 +4974,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 73";
 		rLen = 0;
-		rLoc = 2581;
+		rLoc = 2609;
 		rType = 0;
 		vrLen = 1242;
 		vrLoc = 1850;
@@ -4919,7 +4994,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 65";
 		rLen = 0;
-		rLoc = 2254;
+		rLoc = 2282;
 		rType = 0;
 		vrLen = 1242;
 		vrLoc = 1850;
@@ -4947,7 +5022,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 72";
 		rLen = 0;
-		rLoc = 2580;
+		rLoc = 2608;
 		rType = 0;
 		vrLen = 1355;
 		vrLoc = 1739;
@@ -4967,7 +5042,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 73";
 		rLen = 0;
-		rLoc = 2599;
+		rLoc = 2627;
 		rType = 0;
 		vrLen = 1355;
 		vrLoc = 1739;
@@ -4987,7 +5062,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 77";
 		rLen = 0;
-		rLoc = 2822;
+		rLoc = 2850;
 		rType = 0;
 		vrLen = 1356;
 		vrLoc = 1739;
@@ -5007,7 +5082,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 84";
 		rLen = 0;
-		rLoc = 3064;
+		rLoc = 3092;
 		rType = 0;
 		vrLen = 1268;
 		vrLoc = 1872;
@@ -5027,7 +5102,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 75";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1246;
 		vrLoc = 1853;
@@ -5047,7 +5122,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 85";
 		rLen = 0;
-		rLoc = 3574;
+		rLoc = 3226;
 		rType = 0;
 		vrLen = 1663;
 		vrLoc = 2968;
@@ -5067,7 +5142,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 23";
 		rLen = 0;
-		rLoc = 661;
+		rLoc = 723;
 		rType = 0;
 		vrLen = 965;
 		vrLoc = 0;
@@ -5087,7 +5162,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 74";
 		rLen = 5;
-		rLoc = 2765;
+		rLoc = 2793;
 		rType = 0;
 		vrLen = 1553;
 		vrLoc = 2003;
@@ -5097,7 +5172,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 34";
 		rLen = 0;
-		rLoc = 1145;
+		rLoc = 1173;
 		rType = 0;
 		vrLen = 1678;
 		vrLoc = 490;
@@ -5117,7 +5192,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 96";
 		rLen = 0;
-		rLoc = 3443;
+		rLoc = 3095;
 		rType = 0;
 		vrLen = 1602;
 		vrLoc = 2697;
@@ -5137,7 +5212,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 70";
 		rLen = 0;
-		rLoc = 2555;
+		rLoc = 2583;
 		rType = 0;
 		vrLen = 1499;
 		vrLoc = 1975;
@@ -5157,7 +5232,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 82";
 		rLen = 0;
-		rLoc = 2917;
+		rLoc = 2945;
 		rType = 0;
 		vrLen = 1525;
 		vrLoc = 1975;
@@ -5177,7 +5252,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 73";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1426;
 		vrLoc = 2061;
@@ -5197,7 +5272,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 134";
 		rLen = 0;
-		rLoc = 6055;
+		rLoc = 5707;
 		rType = 0;
 		vrLen = 1570;
 		vrLoc = 2688;
@@ -5217,7 +5292,7 @@
 		comments = "Expected ';' before 'if'";
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		rLen = 1;
-		rLoc = 106;
+		rLoc = 94;
 		rType = 1;
 	};
 	4A242B8B1069CED900B33C73 /* PBXTextBookmark */ = {
@@ -5225,7 +5300,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 107";
 		rLen = 0;
-		rLoc = 4262;
+		rLoc = 3914;
 		rType = 0;
 		vrLen = 2041;
 		vrLoc = 3378;
@@ -5245,7 +5320,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 107";
 		rLen = 0;
-		rLoc = 4262;
+		rLoc = 3914;
 		rType = 0;
 		vrLen = 1394;
 		vrLoc = 1706;
@@ -5265,7 +5340,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 107";
 		rLen = 0;
-		rLoc = 4262;
+		rLoc = 3914;
 		rType = 0;
 		vrLen = 519;
 		vrLoc = 2581;
@@ -5275,7 +5350,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 107";
 		rLen = 0;
-		rLoc = 4262;
+		rLoc = 3914;
 		rType = 0;
 		vrLen = 1364;
 		vrLoc = 2061;
@@ -5295,7 +5370,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 70";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1455;
 		vrLoc = 1720;
@@ -5315,7 +5390,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 70";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1434;
 		vrLoc = 1741;
@@ -5325,7 +5400,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 11";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -5335,7 +5410,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 11";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -5346,7 +5421,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 6;
+		rLoc = 8;
 		rType = 1;
 	};
 	4A42864C106C715600FBCC3E /* PBXTextBookmark */ = {
@@ -5354,7 +5429,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 7";
 		rLen = 0;
-		rLoc = 177;
+		rLoc = 241;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -5374,7 +5449,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 7";
 		rLen = 0;
-		rLoc = 177;
+		rLoc = 241;
 		rType = 0;
 		vrLen = 291;
 		vrLoc = 0;
@@ -5395,7 +5470,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 6;
+		rLoc = 8;
 		rType = 1;
 	};
 	4A428660106C71C200FBCC3E /* PBXTextBookmark */ = {
@@ -5403,7 +5478,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 315;
 		rType = 0;
 		vrLen = 292;
 		vrLoc = 0;
@@ -5433,7 +5508,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 7";
 		rLen = 0;
-		rLoc = 177;
+		rLoc = 241;
 		rType = 0;
 		vrLen = 290;
 		vrLoc = 0;
@@ -5443,7 +5518,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 9";
 		rLen = 0;
-		rLoc = 251;
+		rLoc = 315;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -5463,7 +5538,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 9";
 		rLen = 0;
-		rLoc = 251;
+		rLoc = 315;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -5496,7 +5571,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 12";
 		rLen = 0;
-		rLoc = 291;
+		rLoc = 322;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -5526,7 +5601,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 23";
 		rLen = 0;
-		rLoc = 661;
+		rLoc = 723;
 		rType = 0;
 		vrLen = 965;
 		vrLoc = 0;
@@ -5536,7 +5611,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 70";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1465;
 		vrLoc = 2184;
@@ -5650,7 +5725,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 353;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 708;
 		vrLoc = 0;
@@ -5660,7 +5735,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 30";
 		rLen = 0;
-		rLoc = 1645;
+		rLoc = 1110;
 		rType = 0;
 		vrLen = 1467;
 		vrLoc = 0;
@@ -5683,7 +5758,7 @@
 		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
 		name = "CAConversionCenter.m: 30";
 		rLen = 0;
-		rLoc = 1645;
+		rLoc = 1110;
 		rType = 0;
 		vrLen = 1467;
 		vrLoc = 0;
@@ -6394,7 +6469,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 339;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 407;
 		vrLoc = 0;
@@ -6404,7 +6479,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 16";
 		rLen = 0;
-		rLoc = 353;
+		rLoc = 281;
 		rType = 0;
 		vrLen = 702;
 		vrLoc = 0;
@@ -6414,7 +6489,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 31";
 		rLen = 0;
-		rLoc = 1352;
+		rLoc = 1216;
 		rType = 0;
 		vrLen = 678;
 		vrLoc = 76;
@@ -6434,7 +6509,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 32";
 		rLen = 0;
-		rLoc = 1352;
+		rLoc = 1216;
 		rType = 0;
 		vrLen = 677;
 		vrLoc = 76;
@@ -6464,7 +6539,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 32";
 		rLen = 0;
-		rLoc = 1352;
+		rLoc = 1216;
 		rType = 0;
 		vrLen = 677;
 		vrLoc = 76;
@@ -6474,7 +6549,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 32";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 645;
 		vrLoc = 140;
@@ -6484,7 +6559,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 33";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 664;
 		vrLoc = 140;
@@ -6494,7 +6569,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 33";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 675;
 		vrLoc = 167;
@@ -6504,7 +6579,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 32";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 677;
 		vrLoc = 167;
@@ -6514,7 +6589,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 32";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 674;
 		vrLoc = 167;
@@ -6524,7 +6599,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 32";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 675;
 		vrLoc = 167;
@@ -6534,7 +6609,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 23";
 		rLen = 0;
-		rLoc = 661;
+		rLoc = 723;
 		rType = 0;
 		vrLen = 866;
 		vrLoc = 0;
@@ -6544,7 +6619,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 70";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1190;
 		vrLoc = 1741;
@@ -6564,7 +6639,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 33";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 675;
 		vrLoc = 167;
@@ -6574,7 +6649,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 33";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 710;
 		vrLoc = 167;
@@ -6584,7 +6659,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 31";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 737;
 		vrLoc = 167;
@@ -6594,7 +6669,7 @@
 		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
 		name = "CAConversion.h: 17";
 		rLen = 0;
-		rLoc = 339;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 407;
 		vrLoc = 0;
@@ -6604,7 +6679,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 23";
 		rLen = 0;
-		rLoc = 661;
+		rLoc = 723;
 		rType = 0;
 		vrLen = 866;
 		vrLoc = 0;
@@ -6614,7 +6689,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 70";
 		rLen = 0;
-		rLoc = 2817;
+		rLoc = 2845;
 		rType = 0;
 		vrLen = 1291;
 		vrLoc = 415;
@@ -6624,7 +6699,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 31";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 737;
 		vrLoc = 167;
@@ -6634,7 +6709,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 31";
 		rLen = 0;
-		rLoc = 728;
+		rLoc = 592;
 		rType = 0;
 		vrLen = 721;
 		vrLoc = 167;
@@ -6644,7 +6719,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 34";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 167;
@@ -6654,7 +6729,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 35";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 812;
 		vrLoc = 167;
@@ -6664,7 +6739,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 31";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 855;
 		vrLoc = 167;
@@ -6674,7 +6749,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 36";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 815;
 		vrLoc = 212;
@@ -6684,7 +6759,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 35";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 796;
 		vrLoc = 197;
@@ -6694,7 +6769,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 23";
 		rLen = 0;
-		rLoc = 661;
+		rLoc = 723;
 		rType = 0;
 		vrLen = 866;
 		vrLoc = 0;
@@ -6704,7 +6779,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 23";
 		rLen = 495;
-		rLoc = 491;
+		rLoc = 519;
 		rType = 0;
 		vrLen = 1194;
 		vrLoc = 381;
@@ -6714,7 +6789,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 39";
 		rLen = 0;
-		rLoc = 816;
+		rLoc = 680;
 		rType = 0;
 		vrLen = 894;
 		vrLoc = 212;
@@ -6724,7 +6799,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 39";
 		rLen = 0;
-		rLoc = 816;
+		rLoc = 680;
 		rType = 0;
 		vrLen = 1081;
 		vrLoc = 447;
@@ -6744,7 +6819,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 35";
 		rLen = 45;
-		rLoc = 1147;
+		rLoc = 1175;
 		rType = 0;
 		vrLen = 1265;
 		vrLoc = 490;
@@ -6754,7 +6829,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 46";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1115;
 		vrLoc = 419;
@@ -6764,7 +6839,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 47";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1098;
 		vrLoc = 493;
@@ -6774,7 +6849,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 47";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1098;
 		vrLoc = 493;
@@ -6784,7 +6859,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 47";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 605;
 		vrLoc = 986;
@@ -6794,7 +6869,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 47";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1286;
 		vrLoc = 462;
@@ -6824,7 +6899,7 @@
 		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
 		name = "CAConversionSource.h: 23";
 		rLen = 0;
-		rLoc = 661;
+		rLoc = 723;
 		rType = 0;
 		vrLen = 866;
 		vrLoc = 0;
@@ -6834,7 +6909,7 @@
 		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
 		name = "CAConversionSource.m: 35";
 		rLen = 45;
-		rLoc = 1147;
+		rLoc = 1175;
 		rType = 0;
 		vrLen = 678;
 		vrLoc = 0;
@@ -6844,7 +6919,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1108;
 		vrLoc = 512;
@@ -6884,7 +6959,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 7";
 		rLen = 0;
-		rLoc = 168;
+		rLoc = 232;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -6894,7 +6969,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 295;
 		rType = 0;
 		vrLen = 354;
 		vrLoc = 0;
@@ -6904,7 +6979,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 941;
@@ -6914,7 +6989,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 295;
 		rType = 0;
 		vrLen = 354;
 		vrLoc = 0;
@@ -6924,7 +6999,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 295;
 		rType = 0;
 		vrLen = 354;
 		vrLoc = 0;
@@ -6944,7 +7019,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1053;
 		vrLoc = 567;
@@ -6954,7 +7029,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1055;
 		vrLoc = 567;
@@ -6984,7 +7059,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 35";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 1110;
 		vrLoc = 512;
@@ -6994,7 +7069,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1110;
 		vrLoc = 512;
@@ -7004,7 +7079,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1110;
 		vrLoc = 512;
@@ -7044,7 +7119,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 669;
 		vrLoc = 941;
@@ -7064,7 +7139,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1194;
 		vrLoc = 414;
@@ -7084,7 +7159,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 11";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -7094,7 +7169,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 295;
 		rType = 0;
 		vrLen = 354;
 		vrLoc = 0;
@@ -7104,7 +7179,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 295;
 		rType = 0;
 		vrLen = 354;
 		vrLoc = 0;
@@ -7114,7 +7189,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 295;
 		rType = 0;
 		vrLen = 354;
 		vrLoc = 0;
@@ -7134,7 +7209,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 46";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1169;
 		vrLoc = 380;
@@ -7144,7 +7219,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 46";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1169;
 		vrLoc = 380;
@@ -7154,7 +7229,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 46";
 		rLen = 0;
-		rLoc = 1351;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1169;
 		vrLoc = 380;
@@ -7164,7 +7239,7 @@
 		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
 		name = "CAConversion.m: 31";
 		rLen = 0;
-		rLoc = 797;
+		rLoc = 661;
 		rType = 0;
 		vrLen = 1162;
 		vrLoc = 197;
@@ -7174,7 +7249,7 @@
 		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
 		name = "Import.h: 11";
 		rLen = 0;
-		rLoc = 244;
+		rLoc = 1037;
 		rType = 0;
 		vrLen = 229;
 		vrLoc = 0;
@@ -7204,7 +7279,7 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 10";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 295;
 		rType = 0;
 		vrLen = 354;
 		vrLoc = 0;
@@ -7214,10 +7289,681 @@
 		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
 		name = "CAConversionFramework_Prefix.pch: 7";
 		rLen = 0;
-		rLoc = 177;
+		rLoc = 241;
 		rType = 0;
 		vrLen = 291;
 		vrLoc = 0;
+	};
+	4A42886C1070858A00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A42886D1070858A00FBCC3E /* apb_encrypt.c */;
+		name = "apb_encrypt.c: 4";
+		rLen = 0;
+		rLoc = 77;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 7708;
+	};
+	4A42886D1070858A00FBCC3E /* apb_encrypt.c */ = {
+		isa = PBXFileReference;
+		name = apb_encrypt.c;
+		path = /Users/carterallen/Development/Mac/apb_encrypt.c;
+		sourceTree = "<absolute>";
+	};
+	4A42886E1070858A00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
+		name = "CAConversionFramework.h: 2";
+		rLen = 0;
+		rLoc = 28;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	4A42886F1070858A00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
+		name = "CAConversionFramework_Prefix.pch: 13";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 0;
+	};
+	4A4288701070858A00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
+		name = "CAConversionFramework_Prefix.pch: 7";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 0;
+	};
+	4A4288731070867400FBCC3E /* CAVideoStream.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
+			sepNavSelRange = "{287, 0}";
+			sepNavVisRange = "{0, 314}";
+		};
+	};
+	4A4288741070867400FBCC3E /* CAVideoStream.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
+			sepNavSelRange = "{237, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+	4A4288791070868100FBCC3E /* CAAudioStream.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
+			sepNavSelRange = "{287, 0}";
+			sepNavVisRange = "{0, 314}";
+		};
+	};
+	4A42887A1070868100FBCC3E /* CAAudioStream.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {739, 516}}";
+			sepNavSelRange = "{237, 0}";
+			sepNavVisRange = "{0, 243}";
+			sepNavWindowFrame = "{{15, 4}, {745, 869}}";
+		};
+	};
+	4A428881107086BA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF5E0370ADEE00C91783 /* CAConversionFramework_Prefix.pch */;
+		name = "CAConversionFramework_Prefix.pch: 7";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 0;
+	};
+	4A428882107086BA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BC10656AAB00B33C73 /* CAConversionInfo.m */;
+		name = "CAConversionInfo.m: 17";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	4A428883107086BA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
+		name = "CAConversionSource.m: 31";
+		rLen = 0;
+		rLoc = 1026;
+		rType = 0;
+		vrLen = 1701;
+		vrLoc = 2837;
+	};
+	4A428884107086BA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288731070867400FBCC3E /* CAVideoStream.h */;
+		name = "CAVideoStream.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	4A428885107086BA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */;
+		name = "CAAudioStream.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	4A428886107086BA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A42887A1070868100FBCC3E /* CAAudioStream.m */;
+		name = "CAAudioStream.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	4A428887107086BA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A42887A1070868100FBCC3E /* CAAudioStream.m */;
+		name = "CAAudioStream.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	4A428888107086C900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A42887A1070868100FBCC3E /* CAAudioStream.m */;
+		name = "CAAudioStream.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	4A428889107086C900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A42887A1070868100FBCC3E /* CAAudioStream.m */;
+		name = "CAAudioStream.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	4A42888C107086EA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A42887A1070868100FBCC3E /* CAAudioStream.m */;
+		name = "CAAudioStream.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	4A42888D107086EA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 31";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 137;
+	};
+	4A42888E107086EA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 17";
+		rLen = 0;
+		rLoc = 460;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	4A42888F107086EA00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 11";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	4A42889A107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 11";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	4A42889B107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
+		name = "CAConversionSource.h: 23";
+		rLen = 0;
+		rLoc = 723;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 0;
+	};
+	4A42889C107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
+		name = "CAConversionSource.m: 31";
+		rLen = 0;
+		rLoc = 1026;
+		rType = 0;
+		vrLen = 1721;
+		vrLoc = 3059;
+	};
+	4A42889D107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288741070867400FBCC3E /* CAVideoStream.m */;
+		name = "CAVideoStream.m: 13";
+		rLen = 0;
+		rLoc = 237;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	4A42889E107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A42887A1070868100FBCC3E /* CAAudioStream.m */;
+		name = "CAAudioStream.m: 13";
+		rLen = 0;
+		rLoc = 237;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	4A42889F107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288731070867400FBCC3E /* CAVideoStream.h */;
+		name = "CAVideoStream.h: 13";
+		rLen = 87;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	4A4288A0107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */;
+		name = "CAAudioStream.h: 15";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	4A4288A1107087BE00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */;
+		name = "CAAudioStream.h: 15";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	4A4288A6107089B800FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */;
+		name = "CAAudioStream.h: 15";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	4A4288A7107089B800FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */;
+		name = "CAConversionInfo.h: 21";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	4A4288A8107089B800FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
+		name = "CAConversionSource.h: 31";
+		rLen = 0;
+		rLoc = 1036;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 0;
+	};
+	4A4288A9107089B800FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
+		name = "CAConversionSource.m: 13";
+		rLen = 0;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 1572;
+		vrLoc = 162;
+	};
+	4A4288AA107089B800FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
+		name = "CAConversionFramework.h: 2";
+		rLen = 0;
+		rLoc = 28;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	4A4288AB107089B800FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
+		name = "CAConversionFramework.h: 33";
+		rLen = 0;
+		rLoc = 1037;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 0;
+	};
+	4A4288AC1070F33500FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */;
+		name = "CAConversionFramework.h: 33";
+		rLen = 0;
+		rLoc = 1037;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 0;
+	};
+	4A4288AD1070F33500FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */;
+		name = "CAConversionInfo.h: 21";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	4A4288AE1070F33500FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1710690BCF00B33C73 /* CAConversionSource.h */;
+		name = "CAConversionSource.h: 31";
+		rLen = 0;
+		rLoc = 1036;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 0;
+	};
+	4A4288AF1070F33500FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 20";
+		rLen = 0;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 0;
+	};
+	4A4288B01070F33500FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 31";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 137;
+	};
+	4A4288B11070F33500FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 31";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 137;
+	};
+	4A4288B21070F37700FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 25";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 137;
+	};
+	4A4288B31070F37700FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 15";
+		rLen = 0;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+	4A4288B41070F37700FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BC10656AAB00B33C73 /* CAConversionInfo.m */;
+		name = "CAConversionInfo.m: 17";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	4A4288B51070F37700FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */;
+		name = "CAConversionInfo.h: 14";
+		rLen = 13;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	4A4288B61070F37700FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */;
+		name = "CAConversionInfo.h: 19";
+		rLen = 42;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	4A4288D41070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 21";
+		rLen = 0;
+		rLoc = 460;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	4A4288D51070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */;
+		name = "CAConversionInfo.h: 19";
+		rLen = 42;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	4A4288D61070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2424BC10656AAB00B33C73 /* CAConversionInfo.m */;
+		name = "CAConversionInfo.m: 17";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	4A4288D71070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 26";
+		rLen = 0;
+		rLoc = 562;
+		rType = 0;
+		vrLen = 1161;
+		vrLoc = 36;
+	};
+	4A4288D81070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
+		name = "CAConversionCenter.m: 79";
+		rLen = 0;
+		rLoc = 1457;
+		rType = 0;
+		vrLen = 1235;
+		vrLoc = 1260;
+	};
+	4A4288D91070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288731070867400FBCC3E /* CAVideoStream.h */;
+		name = "CAVideoStream.h: 15";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	4A4288DA1070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */;
+		name = "CAAudioStream.h: 15";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	4A4288DB1070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */;
+		name = "CAAudioStream.h: 15";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	4A4288E21070F4AF00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */;
+		name = "CAAudioStream.h: 15";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	4A4288E31070F4AF00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 26";
+		rLen = 0;
+		rLoc = 562;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 167;
+	};
+	4A4288E41070F4AF00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
+		name = "CAConversionSource.m: 13";
+		rLen = 0;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 1398;
+		vrLoc = 162;
+	};
+	4A4288E51070F4AF00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
+		name = "CAConversionSource.m: 79";
+		rLen = 0;
+		rLoc = 3095;
+		rType = 0;
+		vrLen = 1794;
+		vrLoc = 2396;
+	};
+	4A4288F21070F52000FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A242A1810690BCF00B33C73 /* CAConversionSource.m */;
+		name = "CAConversionSource.m: 79";
+		rLen = 0;
+		rLoc = 3095;
+		rType = 0;
+		vrLen = 1794;
+		vrLoc = 2396;
+	};
+	4A4288F31070F52000FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 24";
+		rLen = 0;
+		rLoc = 514;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 167;
+	};
+	4A4288F41070F52000FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 10";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	4A4288F51070F52000FBCC3E /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Method '-kill' not found (return type defaults to 'id')";
+		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 62;
+		rType = 1;
+	};
+	4A4288F61070F52000FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
+		name = "CAConversionCenter.m: 85";
+		rLen = 0;
+		rLoc = 1733;
+		rType = 0;
+		vrLen = 1137;
+		vrLoc = 1358;
+	};
+	4A4288FB1070F5C900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */;
+		name = "CAConversionCenter.m: 39";
+		rLen = 0;
+		rLoc = 832;
+		rType = 0;
+		vrLen = 1705;
+		vrLoc = 255;
+	};
+	4A4288FC1070F5C900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EE10655A3000B33C73 /* CAConversion.h */;
+		name = "CAConversion.h: 18";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 0;
+	};
+	4A4288FD1070F5C900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 24";
+		rLen = 0;
+		rLoc = 514;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 167;
+	};
+	4A4288FE1070F5C900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A2423EF10655A3000B33C73 /* CAConversion.m */;
+		name = "CAConversion.m: 26";
+		rLen = 0;
+		rLoc = 501;
+		rType = 0;
+		vrLen = 1049;
+		vrLoc = 167;
+	};
+	4A4289021070F63400FBCC3E /* CAConversionFormat.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 461}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
 	};
 	8DC2EF4F0486A6940098B216 /* CAConversionFramework */ = {
 		activeExec = 0;

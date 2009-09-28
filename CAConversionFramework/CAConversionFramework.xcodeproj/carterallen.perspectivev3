@@ -343,22 +343,19 @@
 							<array>
 								<string>0867D691FE84028FC02AAC07</string>
 								<string>08FB77AEFE84172EC02AAC07</string>
-								<string>4A24267A1066D02E00B33C73</string>
 								<string>32C88DFF0371C24200C91783</string>
-								<string>0867D69AFE84028FC02AAC07</string>
-								<string>1058C7B0FEA5585E11CA2CBB</string>
 								<string>1C37FBAC04509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>20</integer>
-									<integer>19</integer>
+									<integer>6</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {236, 672}}</string>
+							<string>{{0, 0}, {236, 705}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -368,14 +365,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {253, 690}}</string>
+						<string>{{0, 0}, {253, 723}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>236</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>1 147 1058 731 0 0 1440 878 </string>
+						<string>1 114 982 764 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -393,7 +390,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>4A24241510655BA400B33C73</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CAConversionFramework_Prefix.pch</string>
+								<string>CAConversion.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -401,15 +398,14 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>4A24241610655BA400B33C73</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>CAConversionFramework_Prefix.pch</string>
+										<string>CAConversion.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>4A42885C1070773600FBCC3E</string>
+										<string>4A4288FE1070F5C900FBCC3E</string>
 										<key>history</key>
 										<array>
 											<string>4A24298D1068917000B33C73</string>
-											<string>4A4286771070062400FBCC3E</string>
 											<string>4A42867B1070062400FBCC3E</string>
 											<string>4A42867D1070062400FBCC3E</string>
 											<string>4A4286801070062400FBCC3E</string>
@@ -423,15 +419,19 @@
 											<string>4A4286E710700A4600FBCC3E</string>
 											<string>4A42871F1070331200FBCC3E</string>
 											<string>4A42874B1070354E00FBCC3E</string>
-											<string>4A4287841070380E00FBCC3E</string>
 											<string>4A428800107069B700FBCC3E</string>
-											<string>4A428801107069B700FBCC3E</string>
-											<string>4A428802107069B700FBCC3E</string>
-											<string>4A42880E107069DF00FBCC3E</string>
-											<string>4A42881E10706AD800FBCC3E</string>
-											<string>4A42884A1070737E00FBCC3E</string>
-											<string>4A42885A1070773600FBCC3E</string>
-											<string>4A42885B1070773600FBCC3E</string>
+											<string>4A42886C1070858A00FBCC3E</string>
+											<string>4A428881107086BA00FBCC3E</string>
+											<string>4A42889D107087BE00FBCC3E</string>
+											<string>4A42889E107087BE00FBCC3E</string>
+											<string>4A4288AC1070F33500FBCC3E</string>
+											<string>4A4288AE1070F33500FBCC3E</string>
+											<string>4A4288D91070F44E00FBCC3E</string>
+											<string>4A4288E21070F4AF00FBCC3E</string>
+											<string>4A4288F21070F52000FBCC3E</string>
+											<string>4A4288FB1070F5C900FBCC3E</string>
+											<string>4A4288FC1070F5C900FBCC3E</string>
+											<string>4A4288FD1070F5C900FBCC3E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -445,14 +445,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {800, 460}}</string>
+								<string>{{0, 0}, {724, 493}}</string>
 								<key>RubberWindowFrame</key>
-								<string>1 147 1058 731 0 0 1440 878 </string>
+								<string>1 114 982 764 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>460pt</string>
+							<string>493pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
@@ -470,7 +470,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {800, 198}}</string>
+										<string>{{10, 27}, {724, 198}}</string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -504,7 +504,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 31}, {603, 297}}</string>
+										<string>{{10, 27}, {800, 198}}</string>
 									</dict>
 									<key>Module</key>
 									<string>PBXCVSModule</string>
@@ -524,9 +524,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {800, 198}}</string>
+										<string>{{10, 27}, {724, 198}}</string>
 										<key>RubberWindowFrame</key>
-										<string>1 147 1058 731 0 0 1440 878 </string>
+										<string>1 114 982 764 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -535,7 +535,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>800pt</string>
+					<string>724pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -730,7 +730,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>275806006.86872703</real>
+	<real>275838409.84548497</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -750,7 +750,7 @@
 		<string>/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAConversionFramework.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>1 147 1058 731 0 0 1440 878 </string>
+	<string>1 114 982 764 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

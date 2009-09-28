@@ -10,7 +10,7 @@
 
 
 @implementation CAConversionSource
-@synthesize fileFormats, fileFormatsHumanReadableVersion, duration, startTime, bitRate;
+@synthesize fileFormats, fileFormatsHumanReadableVersion, duration, startTime, bitRate, videoStreams, audioStreams;
 - (id)initWithFile:(NSURL *)fileURL {
 	[self setFile:fileURL];
 	return self;
@@ -77,18 +77,6 @@
 			NSLog(@"%@", streamInfo);
 		});
 	}
-	/* Ideas for another day:
-	 Create a CAStreamInfo class. Each 
-	 CAConversionSource has an array of them.
-	 Each CAStreamInfo has a bunch of information,
-	 which is basically all the information
-	 that is currently coming from the big method
-	 down there.
-	 
-	 Consider having two different CAStreamInfo
-	 classes, one for audio and one for video.
-	 
-	 Again:  sleep more.*/
 }
 - (NSString *)streamFormatForFormat:(struct AVFormatContext *)ic stream:(int)i index:(int)index isOutput:(int)is_output {
 //void get_stream_format(AVFormatContext *ic, int i, int index, int is_output) {

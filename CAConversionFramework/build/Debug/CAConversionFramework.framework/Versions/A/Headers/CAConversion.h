@@ -7,13 +7,18 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "CAConversionInfo.h"
+#import "CAConversionSource.h"
+#import "CAAudioStream.h"
+#import "CAVideoStream.h"
 
 @interface CAConversion : NSObject {
-	CAConversionInfo *conversionInfo;
+	BOOL running;
+	CAConversionSource *source;
 }
-- (void)kill;
+- (void)start;
+- (void)stop;
 - (id)initWithSourceFile:(NSURL *)fileURL;
 - (void)test;
-@property (readonly, retain) CAConversionInfo *conversionInfo;
+@property (readonly, assign) BOOL running;
+@property (readonly, retain) CAConversionSource *source;
 @end

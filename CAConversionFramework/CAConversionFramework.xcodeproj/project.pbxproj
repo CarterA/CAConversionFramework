@@ -12,8 +12,6 @@
 		4A2423F410655A3000B33C73 /* CAConversionCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A2423F010655A3000B33C73 /* CAConversionCenter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4A2423F510655A3000B33C73 /* CAConversionCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A2423F110655A3000B33C73 /* CAConversionCenter.m */; };
 		4A24244710655EEA00B33C73 /* CAConversionFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A24244510655EEA00B33C73 /* CAConversionFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4A2424BD10656AAB00B33C73 /* CAConversionInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4A2424BE10656AAB00B33C73 /* CAConversionInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A2424BC10656AAB00B33C73 /* CAConversionInfo.m */; };
 		4A24266F1066CF9300B33C73 /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A24266E1066CF9300B33C73 /* libavcodec.a */; };
 		4A2426711066CFAA00B33C73 /* libavformat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A2426701066CFAA00B33C73 /* libavformat.a */; };
 		4A2426751066D00000B33C73 /* avutil.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A2426741066D00000B33C73 /* avutil.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -45,6 +43,13 @@
 		4A4286EE10700A5B00FBCC3E /* libpostproc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A4286ED10700A5B00FBCC3E /* libpostproc.a */; };
 		4A4286F010700A6200FBCC3E /* postprocess.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A4286EF10700A6200FBCC3E /* postprocess.h */; };
 		4A42870510700AA400FBCC3E /* network.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A42870410700AA400FBCC3E /* network.h */; };
+		4A4288751070867400FBCC3E /* CAVideoStream.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A4288731070867400FBCC3E /* CAVideoStream.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A4288761070867400FBCC3E /* CAVideoStream.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A4288741070867400FBCC3E /* CAVideoStream.m */; };
+		4A42887B1070868100FBCC3E /* CAAudioStream.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A4288791070868100FBCC3E /* CAAudioStream.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A42887C1070868100FBCC3E /* CAAudioStream.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A42887A1070868100FBCC3E /* CAAudioStream.m */; };
+		4A4289041070F63400FBCC3E /* CAConversionFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A4289021070F63400FBCC3E /* CAConversionFormat.h */; };
+		4A4289161070F6FF00FBCC3E /* CAConversionOutput.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A4289141070F6FF00FBCC3E /* CAConversionOutput.h */; };
+		4A4289171070F6FF00FBCC3E /* CAConversionOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A4289151070F6FF00FBCC3E /* CAConversionOutput.m */; };
 		8DC2EF530486A6940098B216 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C1666FE841158C02AAC07 /* InfoPlist.strings */; };
 		8DC2EF570486A6940098B216 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */; };
 /* End PBXBuildFile section */
@@ -60,8 +65,6 @@
 		4A2423F010655A3000B33C73 /* CAConversionCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAConversionCenter.h; sourceTree = "<group>"; };
 		4A2423F110655A3000B33C73 /* CAConversionCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CAConversionCenter.m; sourceTree = "<group>"; };
 		4A24244510655EEA00B33C73 /* CAConversionFramework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAConversionFramework.h; sourceTree = "<group>"; };
-		4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAConversionInfo.h; sourceTree = "<group>"; };
-		4A2424BC10656AAB00B33C73 /* CAConversionInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CAConversionInfo.m; sourceTree = "<group>"; };
 		4A24266E1066CF9300B33C73 /* libavcodec.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; name = libavcodec.a; path = "AV Libraries/avcodec/libavcodec.a"; sourceTree = "<group>"; };
 		4A2426701066CFAA00B33C73 /* libavformat.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libavformat.a; path = "AV Libraries/avformat/libavformat.a"; sourceTree = "<group>"; };
 		4A2426741066D00000B33C73 /* avutil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = avutil.h; sourceTree = "<group>"; };
@@ -93,6 +96,13 @@
 		4A4286ED10700A5B00FBCC3E /* libpostproc.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libpostproc.a; path = "AV Libraries/postproc/libpostproc.a"; sourceTree = "<group>"; };
 		4A4286EF10700A6200FBCC3E /* postprocess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = postprocess.h; path = "AV Libraries/postproc/Headers/postprocess.h"; sourceTree = "<group>"; };
 		4A42870410700AA400FBCC3E /* network.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = network.h; sourceTree = "<group>"; };
+		4A4288731070867400FBCC3E /* CAVideoStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAVideoStream.h; sourceTree = "<group>"; };
+		4A4288741070867400FBCC3E /* CAVideoStream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CAVideoStream.m; sourceTree = "<group>"; };
+		4A4288791070868100FBCC3E /* CAAudioStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAAudioStream.h; sourceTree = "<group>"; };
+		4A42887A1070868100FBCC3E /* CAAudioStream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CAAudioStream.m; sourceTree = "<group>"; };
+		4A4289021070F63400FBCC3E /* CAConversionFormat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAConversionFormat.h; sourceTree = "<group>"; };
+		4A4289141070F6FF00FBCC3E /* CAConversionOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAConversionOutput.h; sourceTree = "<group>"; };
+		4A4289151070F6FF00FBCC3E /* CAConversionOutput.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CAConversionOutput.m; sourceTree = "<group>"; };
 		8DC2EF5A0486A6940098B216 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DC2EF5B0486A6940098B216 /* CAConversionFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CAConversionFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2F7E79907B2D74100F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
@@ -158,16 +168,18 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				4A24267A1066D02E00B33C73 /* Library Headers */,
 				4A24244510655EEA00B33C73 /* CAConversionFramework.h */,
+				4A24267A1066D02E00B33C73 /* Library Headers */,
+				4A428880107086B400FBCC3E /* Streams */,
 				4A2423EE10655A3000B33C73 /* CAConversion.h */,
 				4A2423EF10655A3000B33C73 /* CAConversion.m */,
-				4A2424BB10656AAB00B33C73 /* CAConversionInfo.h */,
-				4A2424BC10656AAB00B33C73 /* CAConversionInfo.m */,
 				4A242A1710690BCF00B33C73 /* CAConversionSource.h */,
 				4A242A1810690BCF00B33C73 /* CAConversionSource.m */,
+				4A4289141070F6FF00FBCC3E /* CAConversionOutput.h */,
+				4A4289151070F6FF00FBCC3E /* CAConversionOutput.m */,
 				4A2423F010655A3000B33C73 /* CAConversionCenter.h */,
 				4A2423F110655A3000B33C73 /* CAConversionCenter.m */,
+				4A4289021070F63400FBCC3E /* CAConversionFormat.h */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -292,6 +304,17 @@
 			name = postproc;
 			sourceTree = "<group>";
 		};
+		4A428880107086B400FBCC3E /* Streams */ = {
+			isa = PBXGroup;
+			children = (
+				4A4288731070867400FBCC3E /* CAVideoStream.h */,
+				4A4288741070867400FBCC3E /* CAVideoStream.m */,
+				4A4288791070868100FBCC3E /* CAAudioStream.h */,
+				4A42887A1070868100FBCC3E /* CAAudioStream.m */,
+			);
+			name = Streams;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -302,7 +325,6 @@
 				4A2423F210655A3000B33C73 /* CAConversion.h in Headers */,
 				4A2423F410655A3000B33C73 /* CAConversionCenter.h in Headers */,
 				4A24244710655EEA00B33C73 /* CAConversionFramework.h in Headers */,
-				4A2424BD10656AAB00B33C73 /* CAConversionInfo.h in Headers */,
 				4A2426751066D00000B33C73 /* avutil.h in Headers */,
 				4A2426771066D01300B33C73 /* avformat.h in Headers */,
 				4A2426791066D02500B33C73 /* avcodec.h in Headers */,
@@ -326,6 +348,10 @@
 				4A4286E310700A2C00FBCC3E /* avfilter.h in Headers */,
 				4A4286F010700A6200FBCC3E /* postprocess.h in Headers */,
 				4A42870510700AA400FBCC3E /* network.h in Headers */,
+				4A4288751070867400FBCC3E /* CAVideoStream.h in Headers */,
+				4A42887B1070868100FBCC3E /* CAAudioStream.h in Headers */,
+				4A4289041070F63400FBCC3E /* CAConversionFormat.h in Headers */,
+				4A4289161070F6FF00FBCC3E /* CAConversionOutput.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -387,8 +413,10 @@
 			files = (
 				4A2423F310655A3000B33C73 /* CAConversion.m in Sources */,
 				4A2423F510655A3000B33C73 /* CAConversionCenter.m in Sources */,
-				4A2424BE10656AAB00B33C73 /* CAConversionInfo.m in Sources */,
 				4A242A1A10690BCF00B33C73 /* CAConversionSource.m in Sources */,
+				4A4288761070867400FBCC3E /* CAVideoStream.m in Sources */,
+				4A42887C1070868100FBCC3E /* CAAudioStream.m in Sources */,
+				4A4289171070F6FF00FBCC3E /* CAConversionOutput.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,7 +449,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = CAConversionFramework_Prefix.pch;
-				GCC_VERSION = "";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "@executable_path/../Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -451,7 +479,7 @@
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = CAConversionFramework_Prefix.pch;
-				GCC_VERSION = "";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "@executable_path/../Frameworks";
 				LIBRARY_SEARCH_PATHS = (

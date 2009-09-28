@@ -13,17 +13,20 @@
 #pragma mark -
 #pragma mark Initializers
 - (id)initWithSourceFile:(NSURL *)fileURL {
-	conversionInfo = [[[CAConversionInfo alloc] initWithSourceFile:fileURL] retain];
+	source = [[[CAConversionSource alloc] initWithFile:fileURL] retain];
 	return self;
 }
 #pragma mark -
 #pragma mark Properties
-@synthesize conversionInfo;
+@synthesize source, running;
 #pragma mark -
 #pragma mark Starters/Stoppers
-- (void)kill {
-	if ([[self conversionInfo] running]) {
-		[NSTask launchedTaskWithLaunchPath:@"/bin/kill" arguments:[NSArray arrayWithObject:[NSString stringWithFormat:@"%d", [[self conversionInfo] pid]]]];
+- (void)start {
+	
+}
+- (void)stop {
+	if ([self running]) {
+		// Stop the process.
 	}
 }
 

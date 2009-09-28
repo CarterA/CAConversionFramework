@@ -10,8 +10,8 @@
 	256AC3D90F4B6AC300CF3369 /* VidiotAppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {768, 417}}";
-			sepNavSelRange = "{275, 0}";
-			sepNavVisRange = "{0, 736}";
+			sepNavSelRange = "{660, 0}";
+			sepNavVisRange = "{0, 719}";
 		};
 	};
 	256AC3F00F4B6AF500CF3369 /* Vidiot_Prefix.pch */ = {
@@ -121,6 +121,13 @@
 			4A42885F1070776500FBCC3E /* PBXTextBookmark */ = 4A42885F1070776500FBCC3E /* PBXTextBookmark */;
 			4A4288601070776500FBCC3E /* PBXTextBookmark */ = 4A4288601070776500FBCC3E /* PBXTextBookmark */;
 			4A4288611070776500FBCC3E /* PBXTextBookmark */ = 4A4288611070776500FBCC3E /* PBXTextBookmark */;
+			4A4288B71070F37700FBCC3E /* PBXTextBookmark */ = 4A4288B71070F37700FBCC3E /* PBXTextBookmark */;
+			4A4288C21070F40900FBCC3E /* PBXTextBookmark */ = 4A4288C21070F40900FBCC3E /* PBXTextBookmark */;
+			4A4288C31070F40900FBCC3E /* PBXTextBookmark */ = 4A4288C31070F40900FBCC3E /* PBXTextBookmark */;
+			4A4288C41070F40900FBCC3E /* PBXTextBookmark */ = 4A4288C41070F40900FBCC3E /* PBXTextBookmark */;
+			4A4288D31070F44C00FBCC3E /* PBXTextBookmark */ = 4A4288D31070F44C00FBCC3E /* PBXTextBookmark */;
+			4A4288DC1070F44E00FBCC3E /* PBXTextBookmark */ = 4A4288DC1070F44E00FBCC3E /* PBXTextBookmark */;
+			4A4288FF1070F5C900FBCC3E /* PBXTextBookmark */ = 4A4288FF1070F5C900FBCC3E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 4A24237C1063442100B33C73 /* Source Control */;
 		userBuildSettings = {
@@ -230,7 +237,7 @@
 		fRef = 4A42879F107039D400FBCC3E /* CAConversion.m */;
 		name = "CAConversion.m: 33";
 		rLen = 0;
-		rLoc = 1518;
+		rLoc = 1382;
 		rType = 0;
 		vrLen = 438;
 		vrLoc = 548;
@@ -247,7 +254,7 @@
 		fRef = 256AC3D90F4B6AC300CF3369 /* VidiotAppDelegate.m */;
 		name = "VidiotAppDelegate.m: 22";
 		rLen = 0;
-		rLoc = 727;
+		rLoc = 710;
 		rType = 0;
 		vrLen = 738;
 		vrLoc = 0;
@@ -257,7 +264,7 @@
 		fRef = 4A4287A210703A0300FBCC3E /* CAConversion.m */;
 		name = "CAConversion.m: 31";
 		rLen = 783;
-		rLoc = 1372;
+		rLoc = 1236;
 		rType = 0;
 		vrLen = 1130;
 		vrLoc = 378;
@@ -279,7 +286,7 @@
 		fRef = 4A4287A210703A0300FBCC3E /* CAConversion.m */;
 		name = "CAConversion.m: 48";
 		rLen = 0;
-		rLoc = 1359;
+		rLoc = 1223;
 		rType = 0;
 		vrLen = 1126;
 		vrLoc = 378;
@@ -617,6 +624,76 @@
 		rLoc = 225;
 		rType = 0;
 		vrLen = 370;
+		vrLoc = 0;
+	};
+	4A4288B71070F37700FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* VidiotAppDelegate.h */;
+		name = "VidiotAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 225;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	4A4288C21070F40900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* VidiotAppDelegate.h */;
+		name = "VidiotAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 225;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	4A4288C31070F40900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* VidiotAppDelegate.m */;
+		name = "VidiotAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 0;
+	};
+	4A4288C41070F40900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* VidiotAppDelegate.m */;
+		name = "VidiotAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	4A4288D31070F44C00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* VidiotAppDelegate.m */;
+		name = "VidiotAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	4A4288DC1070F44E00FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* VidiotAppDelegate.m */;
+		name = "VidiotAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	4A4288FF1070F5C900FBCC3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* VidiotAppDelegate.m */;
+		name = "VidiotAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 719;
 		vrLoc = 0;
 	};
 	8D1107260486CEB800E47090 /* Vidiot */ = {

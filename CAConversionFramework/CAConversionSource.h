@@ -14,6 +14,8 @@
 	NSString *fileFormatsHumanReadableVersion;
 	NSString *duration;
 	NSString *startTime;
+	NSMutableArray *videoStreams;
+	NSMutableArray *audioStreams;
 	float bitRate;
 }
 - (NSURL *)file;
@@ -26,5 +28,7 @@
 @property (readonly, retain) NSString *fileFormatsHumanReadableVersion;
 @property (readonly, retain) NSString *duration;
 @property (readonly, retain) NSString *startTime;
+@property (readonly, retain) NSMutableArray *videoStreams;
+@property (readonly, retain) NSMutableArray *audioStreams;
 @property (readonly, assign) float bitRate;
 @end
