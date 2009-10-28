@@ -11,7 +11,6 @@
 @interface CAConversionSource : NSObject {
 	NSURL *file;
 	NSArray *fileFormats;
-	NSString *fileFormatsHumanReadableVersion;
 	NSString *duration;
 	NSString *startTime;
 	NSMutableArray *videoStreams;
@@ -25,7 +24,6 @@
 - (NSString *)streamFormatForFormat:(struct AVFormatContext *)ic stream:(int)i index:(int)index isOutput:(int)is_output;
 @property (retain) NSURL *file;
 @property (readonly, retain) NSArray *fileFormats;
-@property (readonly, retain) NSString *fileFormatsHumanReadableVersion;
 @property (readonly, retain) NSString *duration;
 @property (readonly, retain) NSString *startTime;
 @property (readonly, retain) NSMutableArray *videoStreams;
