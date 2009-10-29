@@ -1,0 +1,16 @@
+//
+// Prefix header for all source files of the 'CAConversionFramework' target in the 'CAConversionFramework' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+	#include <dispatch/dispatch.h>
+	#import "CAConversionFormat.h"
+	#import "CAConversionUtility.h"
+	#import "avcodec.h"
+	#import "avformat.h"
+	#import "avutil.h"
+	#import "avdevice.h"
+	#define err(x) reportError(x, __LINE__, __FILE__)
+	#define util CAConversionUtility
+#endif

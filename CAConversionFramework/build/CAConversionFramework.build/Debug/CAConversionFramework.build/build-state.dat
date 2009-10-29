@@ -1,7 +1,7 @@
 TCAConversionFramework
 v7
 r0
-t278464246.733743
+t278475249.334342
 cCheck dependencies
 cSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current A
 cSymLink /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Resources Versions/Current/Resources
@@ -655,9 +655,9 @@ t2
 s0
 
 N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Code
-c000000004AE8CF1B00000000000000EE
-t1256771355
-s238
+c000000004AE8D02600000000000000CC
+t1256771622
+s204
 
 N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/English.lproj/InfoPlist.strings
 c000000004AC8085F000000000000002E
@@ -825,7 +825,7 @@ t1254085785
 s221965
 
 N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework
-t1256771446
+t1256782449
 s204
 
 N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/CAConversionFramework
@@ -933,8 +933,8 @@ t1256765665
 s3458
 
 N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/Code
-t1256771446
-s238
+t1256782449
+s204
 
 N/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
 t1256765665
@@ -1383,7 +1383,7 @@ lSLF07#2@95"Analyze /Users/carterallen/Development/Mac/CAConversionFramework/CAC
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies278464246#278464246#0(0"0(0#1#0"8243124909656719360#0"0#
+lSLF07#2@18"Check dependencies278475248#278475248#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC build/CAConversionFramework.build/Debug/CAConversionFramework.build/Objects-normal/x86_64/CAAudioStream.o /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/CAAudioStream.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s278459994.926569
@@ -2104,13 +2104,13 @@ CCpHeader build/Debug/CAConversionFramework.framework/Versions/A/Headers/rationa
 r0
 
 CCpResource build/Debug/CAConversionFramework.framework/Versions/A/Resources/Code Code
-s278464246.638925
-e278464246.713393
+s278475248.864664
+e278475249.264736
 r1
 xCpResource
 xbuild/Debug/CAConversionFramework.framework/Versions/A/Resources/Code
 xCode
-lSLF07#2@9"Copy Code278464246#278464246#0(0"0(0#0#83"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Code30118312141586552#462"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Code /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources0#
+lSLF07#2@9"Copy Code278475248#278475249#0(0"0(0#0#83"/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Code4300885448#462"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/Code /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/Resources0#
 
 CLd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/A/CAConversionFramework normal x86_64
 s278459995.272482
@@ -2430,10 +2430,10 @@ xA
 lSLF07#2@147"Process /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current278458464#278458464#0(0"0(0#0#0"4300885448#244"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /bin/ln -sf A /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework/Versions/Current0#
 
 CTouch /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework
-s278464246.713485
-e278464246.733691
+s278475249.264822
+e278475249.334295
 r1
 xTouch
 x/Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework
-lSLF07#2@128"Touch /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework278464246#278464246#0(0"0(0#0#0"4300885448#231"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /usr/bin/touch -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework0#
+lSLF07#2@128"Touch /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework278475249#278475249#0(0"0(0#0#0"4300885448#231"    cd /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework    /usr/bin/touch -c /Users/carterallen/Development/Mac/CAConversionFramework/CAConversionFramework/build/Debug/CAConversionFramework.framework0#
 
